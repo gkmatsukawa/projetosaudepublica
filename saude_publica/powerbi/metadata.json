@@ -1,0 +1,61 @@
+{
+  "projeto": "Análise e Previsão de Dados de Saúde Pública",
+  "gerado_em": "2026-09-16T16:57:33",
+  "tabelas": {
+    "dados_brutos": {
+      "descricao": "Série temporal semanal de casos, óbitos e recuperados por município.",
+      "colunas": [
+        "data",
+        "municipio",
+        "casos",
+        "obitos",
+        "recuperados",
+        "ativos"
+      ],
+      "linhas": 520
+    },
+    "totais_semanais": {
+      "descricao": "Somatório semanal de todos os municípios com média móvel.",
+      "colunas": [
+        "data",
+        "casos",
+        "obitos",
+        "recuperados",
+        "ativos",
+        "media_movel_7"
+      ]
+    },
+    "previsoes": {
+      "descricao": "Projeção futura de casos com intervalos de confiança 95%.",
+      "colunas": [
+        "data",
+        "previsao",
+        "lower",
+        "upper",
+        "municipio",
+        "metrica",
+        "modelo"
+      ]
+    },
+    "resumo_estatistico": {
+      "descricao": "Indicadores agregados por município (totais, taxas, médias)."
+    },
+    "anomalias": {
+      "descricao": "Semanas com desvio padrão > 2.5 (Z-score) — picos atípicos."
+    },
+    "ranking_municipios": {
+      "descricao": "Municípios ordenados por total de casos e taxa de letalidade."
+    }
+  },
+  "relacionamentos_sugeridos": [
+    "dados_brutos[municipio] → resumo_estatistico[municipio]",
+    "dados_brutos[municipio] → previsoes[municipio]",
+    "dados_brutos[data]     → totais_semanais[data]"
+  ],
+  "medidas_dax_sugeridas": [
+    "Total Casos = SUM(dados_brutos[casos])",
+    "Total Óbitos = SUM(dados_brutos[obitos])",
+    "Taxa Letalidade % = DIVIDE([Total Óbitos], [Total Casos]) * 100",
+    "Variação Semanal % = DIVIDE([Total Casos] - CALCULATE([Total Casos], DATEADD(dados_brutos[data], -7, DAY)), CALCULATE([Total Casos], DATEADD(dados_brutos[data], -7, DAY))) * 100"
+  ]
+}

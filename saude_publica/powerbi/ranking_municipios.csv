@@ -1,0 +1,6 @@
+﻿municipio,total_casos,total_obitos,total_recuperados,media_semanal_casos,max_casos_semana,min_casos_semana,taxa_letalidade_pct,taxa_recuperacao_pct
+Rio de Janeiro,28371,806,27092,272.7980769230769,314,226,2.84,95.49
+Salvador,26098,731,24873,250.94230769230768,296,201,2.8,95.31
+Curitiba,24073,638,22923,231.47115384615384,263,197,2.65,95.22
+Belo Horizonte,16279,419,15425,156.52884615384616,191,121,2.57,94.75
+São Paulo,10248,248,9514,98.53846153846153,135,61,2.42,92.84

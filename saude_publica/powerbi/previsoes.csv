@@ -1,0 +1,61 @@
+﻿data,previsao,lower,upper,municipio,metrica,modelo
+2023-12-31,149.1,126.7,171.6,Belo Horizonte,casos,arima
+2024-01-07,149.3,126.1,172.6,Belo Horizonte,casos,arima
+2024-01-14,149.5,125.0,174.0,Belo Horizonte,casos,arima
+2024-01-21,149.6,123.5,175.8,Belo Horizonte,casos,arima
+2024-01-28,149.8,121.7,177.9,Belo Horizonte,casos,arima
+2024-02-04,149.9,119.6,180.1,Belo Horizonte,casos,arima
+2024-02-11,149.9,117.5,182.4,Belo Horizonte,casos,arima
+2024-02-18,150.0,115.2,184.8,Belo Horizonte,casos,arima
+2024-02-25,150.1,113.0,187.1,Belo Horizonte,casos,arima
+2024-03-03,150.1,110.7,189.5,Belo Horizonte,casos,arima
+2024-03-10,150.1,108.4,191.8,Belo Horizonte,casos,arima
+2024-03-17,150.2,106.2,194.1,Belo Horizonte,casos,arima
+2023-12-31,227.4,206.2,248.5,Curitiba,casos,arima
+2024-01-07,232.8,210.1,255.6,Curitiba,casos,arima
+2024-01-14,229.3,203.0,255.6,Curitiba,casos,arima
+2024-01-21,231.0,202.9,259.2,Curitiba,casos,arima
+2024-01-28,230.1,199.6,260.5,Curitiba,casos,arima
+2024-02-04,230.6,198.3,262.9,Curitiba,casos,arima
+2024-02-11,230.3,196.1,264.5,Curitiba,casos,arima
+2024-02-18,230.4,194.5,266.3,Curitiba,casos,arima
+2024-02-25,230.4,192.8,267.9,Curitiba,casos,arima
+2024-03-03,230.4,191.2,269.6,Curitiba,casos,arima
+2024-03-10,230.4,189.7,271.1,Curitiba,casos,arima
+2024-03-17,230.4,188.2,272.6,Curitiba,casos,arima
+2023-12-31,258.2,235.3,281.1,Rio de Janeiro,casos,arima
+2024-01-07,257.4,233.1,281.8,Rio de Janeiro,casos,arima
+2024-01-14,257.7,231.2,284.1,Rio de Janeiro,casos,arima
+2024-01-21,257.5,229.2,285.8,Rio de Janeiro,casos,arima
+2024-01-28,257.6,227.6,287.7,Rio de Janeiro,casos,arima
+2024-02-04,257.5,225.8,289.2,Rio de Janeiro,casos,arima
+2024-02-11,257.6,224.4,290.9,Rio de Janeiro,casos,arima
+2024-02-18,257.5,222.8,292.2,Rio de Janeiro,casos,arima
+2024-02-25,257.6,221.4,293.8,Rio de Janeiro,casos,arima
+2024-03-03,257.5,220.0,295.1,Rio de Janeiro,casos,arima
+2024-03-10,257.6,218.7,296.5,Rio de Janeiro,casos,arima
+2024-03-17,257.5,217.3,297.7,Rio de Janeiro,casos,arima
+2023-12-31,225.4,202.8,248.0,Salvador,casos,arima
+2024-01-07,227.4,202.7,252.0,Salvador,casos,arima
+2024-01-14,227.1,201.2,253.1,Salvador,casos,arima
+2024-01-21,226.8,198.2,255.4,Salvador,casos,arima
+2024-01-28,227.0,196.7,257.4,Salvador,casos,arima
+2024-02-04,227.0,194.9,259.1,Salvador,casos,arima
+2024-02-11,227.0,193.1,260.8,Salvador,casos,arima
+2024-02-18,227.0,191.6,262.4,Salvador,casos,arima
+2024-02-25,227.0,190.0,263.9,Salvador,casos,arima
+2024-03-03,227.0,188.6,265.4,Salvador,casos,arima
+2024-03-10,227.0,187.2,266.8,Salvador,casos,arima
+2024-03-17,227.0,185.8,268.2,Salvador,casos,arima
+2023-12-31,121.8,103.3,140.3,São Paulo,casos,arima
+2024-01-07,122.4,102.2,142.7,São Paulo,casos,arima
+2024-01-14,121.9,99.8,144.0,São Paulo,casos,arima
+2024-01-21,121.6,97.0,146.1,São Paulo,casos,arima
+2024-01-28,121.4,94.4,148.5,São Paulo,casos,arima
+2024-02-04,121.4,92.0,150.9,São Paulo,casos,arima
+2024-02-11,121.4,89.8,153.1,São Paulo,casos,arima
+2024-02-18,121.4,87.7,155.2,São Paulo,casos,arima
+2024-02-25,121.4,85.8,157.1,São Paulo,casos,arima
+2024-03-03,121.4,83.9,158.9,São Paulo,casos,arima
+2024-03-10,121.4,82.2,160.7,São Paulo,casos,arima
+2024-03-17,121.4,80.5,162.4,São Paulo,casos,arima

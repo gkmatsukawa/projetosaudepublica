@@ -1,0 +1,5656 @@
+{
+  "gerado_em": "2026-09-16T16:57:33",
+  "dados_brutos": [
+    {
+      "data": "2022-01-02",
+      "municipio": "Belo Horizonte",
+      "casos": 160,
+      "obitos": 6,
+      "recuperados": 150,
+      "ativos": 4
+    },
+    {
+      "data": "2022-01-09",
+      "municipio": "Belo Horizonte",
+      "casos": 142,
+      "obitos": 6,
+      "recuperados": 128,
+      "ativos": 8
+    },
+    {
+      "data": "2022-01-16",
+      "municipio": "Belo Horizonte",
+      "casos": 157,
+      "obitos": 6,
+      "recuperados": 150,
+      "ativos": 1
+    },
+    {
+      "data": "2022-01-23",
+      "municipio": "Belo Horizonte",
+      "casos": 164,
+      "obitos": 6,
+      "recuperados": 158,
+      "ativos": 0
+    },
+    {
+      "data": "2022-01-30",
+      "municipio": "Belo Horizonte",
+      "casos": 164,
+      "obitos": 1,
+      "recuperados": 162,
+      "ativos": 1
+    },
+    {
+      "data": "2022-02-06",
+      "municipio": "Belo Horizonte",
+      "casos": 175,
+      "obitos": 3,
+      "recuperados": 167,
+      "ativos": 5
+    },
+    {
+      "data": "2022-02-13",
+      "municipio": "Belo Horizonte",
+      "casos": 172,
+      "obitos": 5,
+      "recuperados": 165,
+      "ativos": 2
+    },
+    {
+      "data": "2022-02-20",
+      "municipio": "Belo Horizonte",
+      "casos": 177,
+      "obitos": 7,
+      "recuperados": 166,
+      "ativos": 4
+    },
+    {
+      "data": "2022-02-27",
+      "municipio": "Belo Horizonte",
+      "casos": 165,
+      "obitos": 1,
+      "recuperados": 164,
+      "ativos": 0
+    },
+    {
+      "data": "2022-03-06",
+      "municipio": "Belo Horizonte",
+      "casos": 183,
+      "obitos": 5,
+      "recuperados": 175,
+      "ativos": 3
+    },
+    {
+      "data": "2022-03-13",
+      "municipio": "Belo Horizonte",
+      "casos": 191,
+      "obitos": 7,
+      "recuperados": 180,
+      "ativos": 4
+    },
+    {
+      "data": "2022-03-20",
+      "municipio": "Belo Horizonte",
+      "casos": 166,
+      "obitos": 1,
+      "recuperados": 161,
+      "ativos": 4
+    },
+    {
+      "data": "2022-03-27",
+      "municipio": "Belo Horizonte",
+      "casos": 167,
+      "obitos": 4,
+      "recuperados": 158,
+      "ativos": 5
+    },
+    {
+      "data": "2022-04-03",
+      "municipio": "Belo Horizonte",
+      "casos": 189,
+      "obitos": 8,
+      "recuperados": 174,
+      "ativos": 7
+    },
+    {
+      "data": "2022-04-10",
+      "municipio": "Belo Horizonte",
+      "casos": 174,
+      "obitos": 6,
+      "recuperados": 164,
+      "ativos": 4
+    },
+    {
+      "data": "2022-04-17",
+      "municipio": "Belo Horizonte",
+      "casos": 190,
+      "obitos": 3,
+      "recuperados": 179,
+      "ativos": 8
+    },
+    {
+      "data": "2022-04-24",
+      "municipio": "Belo Horizonte",
+      "casos": 170,
+      "obitos": 7,
+      "recuperados": 158,
+      "ativos": 5
+    },
+    {
+      "data": "2022-05-01",
+      "municipio": "Belo Horizonte",
+      "casos": 188,
+      "obitos": 4,
+      "recuperados": 182,
+      "ativos": 2
+    },
+    {
+      "data": "2022-05-08",
+      "municipio": "Belo Horizonte",
+      "casos": 174,
+      "obitos": 7,
+      "recuperados": 165,
+      "ativos": 2
+    },
+    {
+      "data": "2022-05-15",
+      "municipio": "Belo Horizonte",
+      "casos": 174,
+      "obitos": 3,
+      "recuperados": 168,
+      "ativos": 3
+    },
+    {
+      "data": "2022-05-22",
+      "municipio": "Belo Horizonte",
+      "casos": 185,
+      "obitos": 6,
+      "recuperados": 174,
+      "ativos": 5
+    },
+    {
+      "data": "2022-05-29",
+      "municipio": "Belo Horizonte",
+      "casos": 164,
+      "obitos": 4,
+      "recuperados": 158,
+      "ativos": 2
+    },
+    {
+      "data": "2022-06-05",
+      "municipio": "Belo Horizonte",
+      "casos": 156,
+      "obitos": 3,
+      "recuperados": 144,
+      "ativos": 9
+    },
+    {
+      "data": "2022-06-12",
+      "municipio": "Belo Horizonte",
+      "casos": 159,
+      "obitos": 7,
+      "recuperados": 148,
+      "ativos": 4
+    },
+    {
+      "data": "2022-06-19",
+      "municipio": "Belo Horizonte",
+      "casos": 166,
+      "obitos": 2,
+      "recuperados": 156,
+      "ativos": 8
+    },
+    {
+      "data": "2022-06-26",
+      "municipio": "Belo Horizonte",
+      "casos": 143,
+      "obitos": 1,
+      "recuperados": 136,
+      "ativos": 6
+    },
+    {
+      "data": "2022-07-03",
+      "municipio": "Belo Horizonte",
+      "casos": 163,
+      "obitos": 3,
+      "recuperados": 157,
+      "ativos": 3
+    },
+    {
+      "data": "2022-07-10",
+      "municipio": "Belo Horizonte",
+      "casos": 149,
+      "obitos": 5,
+      "recuperados": 142,
+      "ativos": 2
+    },
+    {
+      "data": "2022-07-17",
+      "municipio": "Belo Horizonte",
+      "casos": 163,
+      "obitos": 6,
+      "recuperados": 150,
+      "ativos": 7
+    },
+    {
+      "data": "2022-07-24",
+      "municipio": "Belo Horizonte",
+      "casos": 126,
+      "obitos": 6,
+      "recuperados": 117,
+      "ativos": 3
+    },
+    {
+      "data": "2022-07-31",
+      "municipio": "Belo Horizonte",
+      "casos": 140,
+      "obitos": 3,
+      "recuperados": 135,
+      "ativos": 2
+    },
+    {
+      "data": "2022-08-07",
+      "municipio": "Belo Horizonte",
+      "casos": 128,
+      "obitos": 3,
+      "recuperados": 116,
+      "ativos": 9
+    },
+    {
+      "data": "2022-08-14",
+      "municipio": "Belo Horizonte",
+      "casos": 135,
+      "obitos": 2,
+      "recuperados": 129,
+      "ativos": 4
+    },
+    {
+      "data": "2022-08-21",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 4,
+      "recuperados": 140,
+      "ativos": 0
+    },
+    {
+      "data": "2022-08-28",
+      "municipio": "Belo Horizonte",
+      "casos": 139,
+      "obitos": 6,
+      "recuperados": 129,
+      "ativos": 4
+    },
+    {
+      "data": "2022-09-04",
+      "municipio": "Belo Horizonte",
+      "casos": 137,
+      "obitos": 5,
+      "recuperados": 128,
+      "ativos": 4
+    },
+    {
+      "data": "2022-09-11",
+      "municipio": "Belo Horizonte",
+      "casos": 137,
+      "obitos": 4,
+      "recuperados": 125,
+      "ativos": 8
+    },
+    {
+      "data": "2022-09-18",
+      "municipio": "Belo Horizonte",
+      "casos": 140,
+      "obitos": 3,
+      "recuperados": 130,
+      "ativos": 7
+    },
+    {
+      "data": "2022-09-25",
+      "municipio": "Belo Horizonte",
+      "casos": 127,
+      "obitos": 5,
+      "recuperados": 121,
+      "ativos": 1
+    },
+    {
+      "data": "2022-10-02",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 4,
+      "recuperados": 139,
+      "ativos": 1
+    },
+    {
+      "data": "2022-10-09",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 2,
+      "recuperados": 136,
+      "ativos": 6
+    },
+    {
+      "data": "2022-10-16",
+      "municipio": "Belo Horizonte",
+      "casos": 142,
+      "obitos": 3,
+      "recuperados": 139,
+      "ativos": 0
+    },
+    {
+      "data": "2022-10-23",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 1,
+      "recuperados": 140,
+      "ativos": 3
+    },
+    {
+      "data": "2022-10-30",
+      "municipio": "Belo Horizonte",
+      "casos": 142,
+      "obitos": 2,
+      "recuperados": 139,
+      "ativos": 1
+    },
+    {
+      "data": "2022-11-06",
+      "municipio": "Belo Horizonte",
+      "casos": 161,
+      "obitos": 1,
+      "recuperados": 160,
+      "ativos": 0
+    },
+    {
+      "data": "2022-11-13",
+      "municipio": "Belo Horizonte",
+      "casos": 141,
+      "obitos": 3,
+      "recuperados": 129,
+      "ativos": 9
+    },
+    {
+      "data": "2022-11-20",
+      "municipio": "Belo Horizonte",
+      "casos": 141,
+      "obitos": 4,
+      "recuperados": 137,
+      "ativos": 0
+    },
+    {
+      "data": "2022-11-27",
+      "municipio": "Belo Horizonte",
+      "casos": 138,
+      "obitos": 3,
+      "recuperados": 135,
+      "ativos": 0
+    },
+    {
+      "data": "2022-12-04",
+      "municipio": "Belo Horizonte",
+      "casos": 138,
+      "obitos": 3,
+      "recuperados": 126,
+      "ativos": 9
+    },
+    {
+      "data": "2022-12-11",
+      "municipio": "Belo Horizonte",
+      "casos": 138,
+      "obitos": 6,
+      "recuperados": 131,
+      "ativos": 1
+    },
+    {
+      "data": "2022-12-18",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 5,
+      "recuperados": 131,
+      "ativos": 8
+    },
+    {
+      "data": "2022-12-25",
+      "municipio": "Belo Horizonte",
+      "casos": 154,
+      "obitos": 4,
+      "recuperados": 150,
+      "ativos": 0
+    },
+    {
+      "data": "2023-01-01",
+      "municipio": "Belo Horizonte",
+      "casos": 161,
+      "obitos": 3,
+      "recuperados": 157,
+      "ativos": 1
+    },
+    {
+      "data": "2023-01-08",
+      "municipio": "Belo Horizonte",
+      "casos": 160,
+      "obitos": 7,
+      "recuperados": 152,
+      "ativos": 1
+    },
+    {
+      "data": "2023-01-15",
+      "municipio": "Belo Horizonte",
+      "casos": 155,
+      "obitos": 3,
+      "recuperados": 145,
+      "ativos": 7
+    },
+    {
+      "data": "2023-01-22",
+      "municipio": "Belo Horizonte",
+      "casos": 174,
+      "obitos": 4,
+      "recuperados": 164,
+      "ativos": 6
+    },
+    {
+      "data": "2023-01-29",
+      "municipio": "Belo Horizonte",
+      "casos": 174,
+      "obitos": 8,
+      "recuperados": 162,
+      "ativos": 4
+    },
+    {
+      "data": "2023-02-05",
+      "municipio": "Belo Horizonte",
+      "casos": 167,
+      "obitos": 5,
+      "recuperados": 160,
+      "ativos": 2
+    },
+    {
+      "data": "2023-02-12",
+      "municipio": "Belo Horizonte",
+      "casos": 164,
+      "obitos": 6,
+      "recuperados": 158,
+      "ativos": 0
+    },
+    {
+      "data": "2023-02-19",
+      "municipio": "Belo Horizonte",
+      "casos": 178,
+      "obitos": 5,
+      "recuperados": 168,
+      "ativos": 5
+    },
+    {
+      "data": "2023-02-26",
+      "municipio": "Belo Horizonte",
+      "casos": 176,
+      "obitos": 6,
+      "recuperados": 168,
+      "ativos": 2
+    },
+    {
+      "data": "2023-03-05",
+      "municipio": "Belo Horizonte",
+      "casos": 161,
+      "obitos": 3,
+      "recuperados": 153,
+      "ativos": 5
+    },
+    {
+      "data": "2023-03-12",
+      "municipio": "Belo Horizonte",
+      "casos": 176,
+      "obitos": 3,
+      "recuperados": 167,
+      "ativos": 6
+    },
+    {
+      "data": "2023-03-19",
+      "municipio": "Belo Horizonte",
+      "casos": 180,
+      "obitos": 4,
+      "recuperados": 168,
+      "ativos": 8
+    },
+    {
+      "data": "2023-03-26",
+      "municipio": "Belo Horizonte",
+      "casos": 169,
+      "obitos": 2,
+      "recuperados": 163,
+      "ativos": 4
+    },
+    {
+      "data": "2023-04-02",
+      "municipio": "Belo Horizonte",
+      "casos": 180,
+      "obitos": 8,
+      "recuperados": 172,
+      "ativos": 0
+    },
+    {
+      "data": "2023-04-09",
+      "municipio": "Belo Horizonte",
+      "casos": 163,
+      "obitos": 3,
+      "recuperados": 158,
+      "ativos": 2
+    },
+    {
+      "data": "2023-04-16",
+      "municipio": "Belo Horizonte",
+      "casos": 191,
+      "obitos": 6,
+      "recuperados": 177,
+      "ativos": 8
+    },
+    {
+      "data": "2023-04-23",
+      "municipio": "Belo Horizonte",
+      "casos": 189,
+      "obitos": 7,
+      "recuperados": 177,
+      "ativos": 5
+    },
+    {
+      "data": "2023-04-30",
+      "municipio": "Belo Horizonte",
+      "casos": 173,
+      "obitos": 7,
+      "recuperados": 160,
+      "ativos": 6
+    },
+    {
+      "data": "2023-05-07",
+      "municipio": "Belo Horizonte",
+      "casos": 178,
+      "obitos": 4,
+      "recuperados": 170,
+      "ativos": 4
+    },
+    {
+      "data": "2023-05-14",
+      "municipio": "Belo Horizonte",
+      "casos": 149,
+      "obitos": 4,
+      "recuperados": 144,
+      "ativos": 1
+    },
+    {
+      "data": "2023-05-21",
+      "municipio": "Belo Horizonte",
+      "casos": 160,
+      "obitos": 7,
+      "recuperados": 145,
+      "ativos": 8
+    },
+    {
+      "data": "2023-05-28",
+      "municipio": "Belo Horizonte",
+      "casos": 167,
+      "obitos": 6,
+      "recuperados": 154,
+      "ativos": 7
+    },
+    {
+      "data": "2023-06-04",
+      "municipio": "Belo Horizonte",
+      "casos": 157,
+      "obitos": 6,
+      "recuperados": 142,
+      "ativos": 9
+    },
+    {
+      "data": "2023-06-11",
+      "municipio": "Belo Horizonte",
+      "casos": 173,
+      "obitos": 7,
+      "recuperados": 158,
+      "ativos": 8
+    },
+    {
+      "data": "2023-06-18",
+      "municipio": "Belo Horizonte",
+      "casos": 183,
+      "obitos": 7,
+      "recuperados": 174,
+      "ativos": 2
+    },
+    {
+      "data": "2023-06-25",
+      "municipio": "Belo Horizonte",
+      "casos": 149,
+      "obitos": 2,
+      "recuperados": 145,
+      "ativos": 2
+    },
+    {
+      "data": "2023-07-02",
+      "municipio": "Belo Horizonte",
+      "casos": 150,
+      "obitos": 4,
+      "recuperados": 144,
+      "ativos": 2
+    },
+    {
+      "data": "2023-07-09",
+      "municipio": "Belo Horizonte",
+      "casos": 159,
+      "obitos": 2,
+      "recuperados": 148,
+      "ativos": 9
+    },
+    {
+      "data": "2023-07-16",
+      "municipio": "Belo Horizonte",
+      "casos": 170,
+      "obitos": 6,
+      "recuperados": 159,
+      "ativos": 5
+    },
+    {
+      "data": "2023-07-23",
+      "municipio": "Belo Horizonte",
+      "casos": 139,
+      "obitos": 6,
+      "recuperados": 129,
+      "ativos": 4
+    },
+    {
+      "data": "2023-07-30",
+      "municipio": "Belo Horizonte",
+      "casos": 152,
+      "obitos": 4,
+      "recuperados": 139,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-06",
+      "municipio": "Belo Horizonte",
+      "casos": 166,
+      "obitos": 4,
+      "recuperados": 156,
+      "ativos": 6
+    },
+    {
+      "data": "2023-08-13",
+      "municipio": "Belo Horizonte",
+      "casos": 129,
+      "obitos": 1,
+      "recuperados": 119,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-20",
+      "municipio": "Belo Horizonte",
+      "casos": 131,
+      "obitos": 6,
+      "recuperados": 116,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-27",
+      "municipio": "Belo Horizonte",
+      "casos": 138,
+      "obitos": 1,
+      "recuperados": 137,
+      "ativos": 0
+    },
+    {
+      "data": "2023-09-03",
+      "municipio": "Belo Horizonte",
+      "casos": 136,
+      "obitos": 1,
+      "recuperados": 132,
+      "ativos": 3
+    },
+    {
+      "data": "2023-09-10",
+      "municipio": "Belo Horizonte",
+      "casos": 148,
+      "obitos": 2,
+      "recuperados": 139,
+      "ativos": 7
+    },
+    {
+      "data": "2023-09-17",
+      "municipio": "Belo Horizonte",
+      "casos": 142,
+      "obitos": 1,
+      "recuperados": 133,
+      "ativos": 8
+    },
+    {
+      "data": "2023-09-24",
+      "municipio": "Belo Horizonte",
+      "casos": 121,
+      "obitos": 3,
+      "recuperados": 117,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-01",
+      "municipio": "Belo Horizonte",
+      "casos": 144,
+      "obitos": 4,
+      "recuperados": 137,
+      "ativos": 3
+    },
+    {
+      "data": "2023-10-08",
+      "municipio": "Belo Horizonte",
+      "casos": 133,
+      "obitos": 2,
+      "recuperados": 126,
+      "ativos": 5
+    },
+    {
+      "data": "2023-10-15",
+      "municipio": "Belo Horizonte",
+      "casos": 152,
+      "obitos": 1,
+      "recuperados": 144,
+      "ativos": 7
+    },
+    {
+      "data": "2023-10-22",
+      "municipio": "Belo Horizonte",
+      "casos": 134,
+      "obitos": 1,
+      "recuperados": 132,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-29",
+      "municipio": "Belo Horizonte",
+      "casos": 135,
+      "obitos": 3,
+      "recuperados": 126,
+      "ativos": 6
+    },
+    {
+      "data": "2023-11-05",
+      "municipio": "Belo Horizonte",
+      "casos": 148,
+      "obitos": 1,
+      "recuperados": 145,
+      "ativos": 2
+    },
+    {
+      "data": "2023-11-12",
+      "municipio": "Belo Horizonte",
+      "casos": 152,
+      "obitos": 5,
+      "recuperados": 145,
+      "ativos": 2
+    },
+    {
+      "data": "2023-11-19",
+      "municipio": "Belo Horizonte",
+      "casos": 151,
+      "obitos": 2,
+      "recuperados": 144,
+      "ativos": 5
+    },
+    {
+      "data": "2023-11-26",
+      "municipio": "Belo Horizonte",
+      "casos": 131,
+      "obitos": 2,
+      "recuperados": 125,
+      "ativos": 4
+    },
+    {
+      "data": "2023-12-03",
+      "municipio": "Belo Horizonte",
+      "casos": 155,
+      "obitos": 3,
+      "recuperados": 146,
+      "ativos": 6
+    },
+    {
+      "data": "2023-12-10",
+      "municipio": "Belo Horizonte",
+      "casos": 142,
+      "obitos": 3,
+      "recuperados": 136,
+      "ativos": 3
+    },
+    {
+      "data": "2023-12-17",
+      "municipio": "Belo Horizonte",
+      "casos": 157,
+      "obitos": 1,
+      "recuperados": 148,
+      "ativos": 8
+    },
+    {
+      "data": "2023-12-24",
+      "municipio": "Belo Horizonte",
+      "casos": 143,
+      "obitos": 2,
+      "recuperados": 141,
+      "ativos": 0
+    },
+    {
+      "data": "2022-01-02",
+      "municipio": "Curitiba",
+      "casos": 241,
+      "obitos": 4,
+      "recuperados": 229,
+      "ativos": 8
+    },
+    {
+      "data": "2022-01-09",
+      "municipio": "Curitiba",
+      "casos": 216,
+      "obitos": 3,
+      "recuperados": 204,
+      "ativos": 9
+    },
+    {
+      "data": "2022-01-16",
+      "municipio": "Curitiba",
+      "casos": 235,
+      "obitos": 10,
+      "recuperados": 222,
+      "ativos": 3
+    },
+    {
+      "data": "2022-01-23",
+      "municipio": "Curitiba",
+      "casos": 220,
+      "obitos": 9,
+      "recuperados": 207,
+      "ativos": 4
+    },
+    {
+      "data": "2022-01-30",
+      "municipio": "Curitiba",
+      "casos": 244,
+      "obitos": 7,
+      "recuperados": 232,
+      "ativos": 5
+    },
+    {
+      "data": "2022-02-06",
+      "municipio": "Curitiba",
+      "casos": 245,
+      "obitos": 10,
+      "recuperados": 231,
+      "ativos": 4
+    },
+    {
+      "data": "2022-02-13",
+      "municipio": "Curitiba",
+      "casos": 258,
+      "obitos": 3,
+      "recuperados": 253,
+      "ativos": 2
+    },
+    {
+      "data": "2022-02-20",
+      "municipio": "Curitiba",
+      "casos": 261,
+      "obitos": 6,
+      "recuperados": 246,
+      "ativos": 9
+    },
+    {
+      "data": "2022-02-27",
+      "municipio": "Curitiba",
+      "casos": 252,
+      "obitos": 9,
+      "recuperados": 234,
+      "ativos": 9
+    },
+    {
+      "data": "2022-03-06",
+      "municipio": "Curitiba",
+      "casos": 247,
+      "obitos": 5,
+      "recuperados": 239,
+      "ativos": 3
+    },
+    {
+      "data": "2022-03-13",
+      "municipio": "Curitiba",
+      "casos": 257,
+      "obitos": 10,
+      "recuperados": 239,
+      "ativos": 8
+    },
+    {
+      "data": "2022-03-20",
+      "municipio": "Curitiba",
+      "casos": 248,
+      "obitos": 7,
+      "recuperados": 238,
+      "ativos": 3
+    },
+    {
+      "data": "2022-03-27",
+      "municipio": "Curitiba",
+      "casos": 253,
+      "obitos": 10,
+      "recuperados": 236,
+      "ativos": 7
+    },
+    {
+      "data": "2022-04-03",
+      "municipio": "Curitiba",
+      "casos": 263,
+      "obitos": 7,
+      "recuperados": 251,
+      "ativos": 5
+    },
+    {
+      "data": "2022-04-10",
+      "municipio": "Curitiba",
+      "casos": 248,
+      "obitos": 6,
+      "recuperados": 238,
+      "ativos": 4
+    },
+    {
+      "data": "2022-04-17",
+      "municipio": "Curitiba",
+      "casos": 261,
+      "obitos": 4,
+      "recuperados": 256,
+      "ativos": 1
+    },
+    {
+      "data": "2022-04-24",
+      "municipio": "Curitiba",
+      "casos": 259,
+      "obitos": 4,
+      "recuperados": 249,
+      "ativos": 6
+    },
+    {
+      "data": "2022-05-01",
+      "municipio": "Curitiba",
+      "casos": 241,
+      "obitos": 9,
+      "recuperados": 229,
+      "ativos": 3
+    },
+    {
+      "data": "2022-05-08",
+      "municipio": "Curitiba",
+      "casos": 259,
+      "obitos": 3,
+      "recuperados": 254,
+      "ativos": 2
+    },
+    {
+      "data": "2022-05-15",
+      "municipio": "Curitiba",
+      "casos": 255,
+      "obitos": 3,
+      "recuperados": 251,
+      "ativos": 1
+    },
+    {
+      "data": "2022-05-22",
+      "municipio": "Curitiba",
+      "casos": 247,
+      "obitos": 4,
+      "recuperados": 234,
+      "ativos": 9
+    },
+    {
+      "data": "2022-05-29",
+      "municipio": "Curitiba",
+      "casos": 237,
+      "obitos": 4,
+      "recuperados": 232,
+      "ativos": 1
+    },
+    {
+      "data": "2022-06-05",
+      "municipio": "Curitiba",
+      "casos": 233,
+      "obitos": 10,
+      "recuperados": 216,
+      "ativos": 7
+    },
+    {
+      "data": "2022-06-12",
+      "municipio": "Curitiba",
+      "casos": 234,
+      "obitos": 6,
+      "recuperados": 220,
+      "ativos": 8
+    },
+    {
+      "data": "2022-06-19",
+      "municipio": "Curitiba",
+      "casos": 243,
+      "obitos": 12,
+      "recuperados": 231,
+      "ativos": 0
+    },
+    {
+      "data": "2022-06-26",
+      "municipio": "Curitiba",
+      "casos": 225,
+      "obitos": 3,
+      "recuperados": 217,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-03",
+      "municipio": "Curitiba",
+      "casos": 237,
+      "obitos": 8,
+      "recuperados": 224,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-10",
+      "municipio": "Curitiba",
+      "casos": 218,
+      "obitos": 6,
+      "recuperados": 209,
+      "ativos": 3
+    },
+    {
+      "data": "2022-07-17",
+      "municipio": "Curitiba",
+      "casos": 225,
+      "obitos": 5,
+      "recuperados": 214,
+      "ativos": 6
+    },
+    {
+      "data": "2022-07-24",
+      "municipio": "Curitiba",
+      "casos": 226,
+      "obitos": 10,
+      "recuperados": 212,
+      "ativos": 4
+    },
+    {
+      "data": "2022-07-31",
+      "municipio": "Curitiba",
+      "casos": 247,
+      "obitos": 12,
+      "recuperados": 231,
+      "ativos": 4
+    },
+    {
+      "data": "2022-08-07",
+      "municipio": "Curitiba",
+      "casos": 207,
+      "obitos": 9,
+      "recuperados": 194,
+      "ativos": 4
+    },
+    {
+      "data": "2022-08-14",
+      "municipio": "Curitiba",
+      "casos": 233,
+      "obitos": 4,
+      "recuperados": 221,
+      "ativos": 8
+    },
+    {
+      "data": "2022-08-21",
+      "municipio": "Curitiba",
+      "casos": 218,
+      "obitos": 4,
+      "recuperados": 208,
+      "ativos": 6
+    },
+    {
+      "data": "2022-08-28",
+      "municipio": "Curitiba",
+      "casos": 220,
+      "obitos": 7,
+      "recuperados": 210,
+      "ativos": 3
+    },
+    {
+      "data": "2022-09-04",
+      "municipio": "Curitiba",
+      "casos": 215,
+      "obitos": 4,
+      "recuperados": 202,
+      "ativos": 9
+    },
+    {
+      "data": "2022-09-11",
+      "municipio": "Curitiba",
+      "casos": 217,
+      "obitos": 8,
+      "recuperados": 201,
+      "ativos": 8
+    },
+    {
+      "data": "2022-09-18",
+      "municipio": "Curitiba",
+      "casos": 211,
+      "obitos": 6,
+      "recuperados": 196,
+      "ativos": 9
+    },
+    {
+      "data": "2022-09-25",
+      "municipio": "Curitiba",
+      "casos": 226,
+      "obitos": 7,
+      "recuperados": 212,
+      "ativos": 7
+    },
+    {
+      "data": "2022-10-02",
+      "municipio": "Curitiba",
+      "casos": 207,
+      "obitos": 8,
+      "recuperados": 196,
+      "ativos": 3
+    },
+    {
+      "data": "2022-10-09",
+      "municipio": "Curitiba",
+      "casos": 223,
+      "obitos": 8,
+      "recuperados": 208,
+      "ativos": 7
+    },
+    {
+      "data": "2022-10-16",
+      "municipio": "Curitiba",
+      "casos": 205,
+      "obitos": 2,
+      "recuperados": 200,
+      "ativos": 3
+    },
+    {
+      "data": "2022-10-23",
+      "municipio": "Curitiba",
+      "casos": 212,
+      "obitos": 2,
+      "recuperados": 208,
+      "ativos": 2
+    },
+    {
+      "data": "2022-10-30",
+      "municipio": "Curitiba",
+      "casos": 203,
+      "obitos": 6,
+      "recuperados": 193,
+      "ativos": 4
+    },
+    {
+      "data": "2022-11-06",
+      "municipio": "Curitiba",
+      "casos": 219,
+      "obitos": 6,
+      "recuperados": 204,
+      "ativos": 9
+    },
+    {
+      "data": "2022-11-13",
+      "municipio": "Curitiba",
+      "casos": 230,
+      "obitos": 4,
+      "recuperados": 221,
+      "ativos": 5
+    },
+    {
+      "data": "2022-11-20",
+      "municipio": "Curitiba",
+      "casos": 217,
+      "obitos": 5,
+      "recuperados": 209,
+      "ativos": 3
+    },
+    {
+      "data": "2022-11-27",
+      "municipio": "Curitiba",
+      "casos": 218,
+      "obitos": 8,
+      "recuperados": 206,
+      "ativos": 4
+    },
+    {
+      "data": "2022-12-04",
+      "municipio": "Curitiba",
+      "casos": 210,
+      "obitos": 9,
+      "recuperados": 199,
+      "ativos": 2
+    },
+    {
+      "data": "2022-12-11",
+      "municipio": "Curitiba",
+      "casos": 221,
+      "obitos": 7,
+      "recuperados": 208,
+      "ativos": 6
+    },
+    {
+      "data": "2022-12-18",
+      "municipio": "Curitiba",
+      "casos": 210,
+      "obitos": 5,
+      "recuperados": 202,
+      "ativos": 3
+    },
+    {
+      "data": "2022-12-25",
+      "municipio": "Curitiba",
+      "casos": 219,
+      "obitos": 4,
+      "recuperados": 210,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-01",
+      "municipio": "Curitiba",
+      "casos": 233,
+      "obitos": 7,
+      "recuperados": 223,
+      "ativos": 3
+    },
+    {
+      "data": "2023-01-08",
+      "municipio": "Curitiba",
+      "casos": 246,
+      "obitos": 5,
+      "recuperados": 238,
+      "ativos": 3
+    },
+    {
+      "data": "2023-01-15",
+      "municipio": "Curitiba",
+      "casos": 263,
+      "obitos": 8,
+      "recuperados": 246,
+      "ativos": 9
+    },
+    {
+      "data": "2023-01-22",
+      "municipio": "Curitiba",
+      "casos": 231,
+      "obitos": 8,
+      "recuperados": 220,
+      "ativos": 3
+    },
+    {
+      "data": "2023-01-29",
+      "municipio": "Curitiba",
+      "casos": 254,
+      "obitos": 3,
+      "recuperados": 251,
+      "ativos": 0
+    },
+    {
+      "data": "2023-02-05",
+      "municipio": "Curitiba",
+      "casos": 244,
+      "obitos": 2,
+      "recuperados": 239,
+      "ativos": 3
+    },
+    {
+      "data": "2023-02-12",
+      "municipio": "Curitiba",
+      "casos": 242,
+      "obitos": 4,
+      "recuperados": 233,
+      "ativos": 5
+    },
+    {
+      "data": "2023-02-19",
+      "municipio": "Curitiba",
+      "casos": 249,
+      "obitos": 11,
+      "recuperados": 238,
+      "ativos": 0
+    },
+    {
+      "data": "2023-02-26",
+      "municipio": "Curitiba",
+      "casos": 247,
+      "obitos": 8,
+      "recuperados": 236,
+      "ativos": 3
+    },
+    {
+      "data": "2023-03-05",
+      "municipio": "Curitiba",
+      "casos": 249,
+      "obitos": 4,
+      "recuperados": 244,
+      "ativos": 1
+    },
+    {
+      "data": "2023-03-12",
+      "municipio": "Curitiba",
+      "casos": 244,
+      "obitos": 11,
+      "recuperados": 228,
+      "ativos": 5
+    },
+    {
+      "data": "2023-03-19",
+      "municipio": "Curitiba",
+      "casos": 235,
+      "obitos": 6,
+      "recuperados": 222,
+      "ativos": 7
+    },
+    {
+      "data": "2023-03-26",
+      "municipio": "Curitiba",
+      "casos": 234,
+      "obitos": 6,
+      "recuperados": 219,
+      "ativos": 9
+    },
+    {
+      "data": "2023-04-02",
+      "municipio": "Curitiba",
+      "casos": 256,
+      "obitos": 12,
+      "recuperados": 241,
+      "ativos": 3
+    },
+    {
+      "data": "2023-04-09",
+      "municipio": "Curitiba",
+      "casos": 246,
+      "obitos": 3,
+      "recuperados": 235,
+      "ativos": 8
+    },
+    {
+      "data": "2023-04-16",
+      "municipio": "Curitiba",
+      "casos": 243,
+      "obitos": 4,
+      "recuperados": 237,
+      "ativos": 2
+    },
+    {
+      "data": "2023-04-23",
+      "municipio": "Curitiba",
+      "casos": 248,
+      "obitos": 8,
+      "recuperados": 233,
+      "ativos": 7
+    },
+    {
+      "data": "2023-04-30",
+      "municipio": "Curitiba",
+      "casos": 255,
+      "obitos": 4,
+      "recuperados": 246,
+      "ativos": 5
+    },
+    {
+      "data": "2023-05-07",
+      "municipio": "Curitiba",
+      "casos": 247,
+      "obitos": 9,
+      "recuperados": 231,
+      "ativos": 7
+    },
+    {
+      "data": "2023-05-14",
+      "municipio": "Curitiba",
+      "casos": 237,
+      "obitos": 4,
+      "recuperados": 226,
+      "ativos": 7
+    },
+    {
+      "data": "2023-05-21",
+      "municipio": "Curitiba",
+      "casos": 254,
+      "obitos": 3,
+      "recuperados": 246,
+      "ativos": 5
+    },
+    {
+      "data": "2023-05-28",
+      "municipio": "Curitiba",
+      "casos": 256,
+      "obitos": 4,
+      "recuperados": 250,
+      "ativos": 2
+    },
+    {
+      "data": "2023-06-04",
+      "municipio": "Curitiba",
+      "casos": 243,
+      "obitos": 6,
+      "recuperados": 232,
+      "ativos": 5
+    },
+    {
+      "data": "2023-06-11",
+      "municipio": "Curitiba",
+      "casos": 246,
+      "obitos": 4,
+      "recuperados": 234,
+      "ativos": 8
+    },
+    {
+      "data": "2023-06-18",
+      "municipio": "Curitiba",
+      "casos": 246,
+      "obitos": 3,
+      "recuperados": 234,
+      "ativos": 9
+    },
+    {
+      "data": "2023-06-25",
+      "municipio": "Curitiba",
+      "casos": 242,
+      "obitos": 10,
+      "recuperados": 223,
+      "ativos": 9
+    },
+    {
+      "data": "2023-07-02",
+      "municipio": "Curitiba",
+      "casos": 235,
+      "obitos": 5,
+      "recuperados": 229,
+      "ativos": 1
+    },
+    {
+      "data": "2023-07-09",
+      "municipio": "Curitiba",
+      "casos": 232,
+      "obitos": 5,
+      "recuperados": 222,
+      "ativos": 5
+    },
+    {
+      "data": "2023-07-16",
+      "municipio": "Curitiba",
+      "casos": 229,
+      "obitos": 2,
+      "recuperados": 226,
+      "ativos": 1
+    },
+    {
+      "data": "2023-07-23",
+      "municipio": "Curitiba",
+      "casos": 210,
+      "obitos": 5,
+      "recuperados": 199,
+      "ativos": 6
+    },
+    {
+      "data": "2023-07-30",
+      "municipio": "Curitiba",
+      "casos": 226,
+      "obitos": 4,
+      "recuperados": 213,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-06",
+      "municipio": "Curitiba",
+      "casos": 203,
+      "obitos": 6,
+      "recuperados": 197,
+      "ativos": 0
+    },
+    {
+      "data": "2023-08-13",
+      "municipio": "Curitiba",
+      "casos": 207,
+      "obitos": 3,
+      "recuperados": 198,
+      "ativos": 6
+    },
+    {
+      "data": "2023-08-20",
+      "municipio": "Curitiba",
+      "casos": 226,
+      "obitos": 10,
+      "recuperados": 207,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-27",
+      "municipio": "Curitiba",
+      "casos": 220,
+      "obitos": 10,
+      "recuperados": 202,
+      "ativos": 8
+    },
+    {
+      "data": "2023-09-03",
+      "municipio": "Curitiba",
+      "casos": 225,
+      "obitos": 3,
+      "recuperados": 219,
+      "ativos": 3
+    },
+    {
+      "data": "2023-09-10",
+      "municipio": "Curitiba",
+      "casos": 206,
+      "obitos": 2,
+      "recuperados": 203,
+      "ativos": 1
+    },
+    {
+      "data": "2023-09-17",
+      "municipio": "Curitiba",
+      "casos": 197,
+      "obitos": 2,
+      "recuperados": 186,
+      "ativos": 9
+    },
+    {
+      "data": "2023-09-24",
+      "municipio": "Curitiba",
+      "casos": 205,
+      "obitos": 7,
+      "recuperados": 189,
+      "ativos": 9
+    },
+    {
+      "data": "2023-10-01",
+      "municipio": "Curitiba",
+      "casos": 208,
+      "obitos": 3,
+      "recuperados": 200,
+      "ativos": 5
+    },
+    {
+      "data": "2023-10-08",
+      "municipio": "Curitiba",
+      "casos": 208,
+      "obitos": 9,
+      "recuperados": 190,
+      "ativos": 9
+    },
+    {
+      "data": "2023-10-15",
+      "municipio": "Curitiba",
+      "casos": 219,
+      "obitos": 8,
+      "recuperados": 211,
+      "ativos": 0
+    },
+    {
+      "data": "2023-10-22",
+      "municipio": "Curitiba",
+      "casos": 205,
+      "obitos": 8,
+      "recuperados": 191,
+      "ativos": 6
+    },
+    {
+      "data": "2023-10-29",
+      "municipio": "Curitiba",
+      "casos": 213,
+      "obitos": 6,
+      "recuperados": 207,
+      "ativos": 0
+    },
+    {
+      "data": "2023-11-05",
+      "municipio": "Curitiba",
+      "casos": 201,
+      "obitos": 10,
+      "recuperados": 182,
+      "ativos": 9
+    },
+    {
+      "data": "2023-11-12",
+      "municipio": "Curitiba",
+      "casos": 216,
+      "obitos": 2,
+      "recuperados": 208,
+      "ativos": 6
+    },
+    {
+      "data": "2023-11-19",
+      "municipio": "Curitiba",
+      "casos": 214,
+      "obitos": 5,
+      "recuperados": 200,
+      "ativos": 9
+    },
+    {
+      "data": "2023-11-26",
+      "municipio": "Curitiba",
+      "casos": 208,
+      "obitos": 4,
+      "recuperados": 199,
+      "ativos": 5
+    },
+    {
+      "data": "2023-12-03",
+      "municipio": "Curitiba",
+      "casos": 215,
+      "obitos": 10,
+      "recuperados": 205,
+      "ativos": 0
+    },
+    {
+      "data": "2023-12-10",
+      "municipio": "Curitiba",
+      "casos": 218,
+      "obitos": 7,
+      "recuperados": 211,
+      "ativos": 0
+    },
+    {
+      "data": "2023-12-17",
+      "municipio": "Curitiba",
+      "casos": 219,
+      "obitos": 9,
+      "recuperados": 207,
+      "ativos": 3
+    },
+    {
+      "data": "2023-12-24",
+      "municipio": "Curitiba",
+      "casos": 242,
+      "obitos": 4,
+      "recuperados": 231,
+      "ativos": 7
+    },
+    {
+      "data": "2022-01-02",
+      "municipio": "Rio de Janeiro",
+      "casos": 287,
+      "obitos": 6,
+      "recuperados": 274,
+      "ativos": 7
+    },
+    {
+      "data": "2022-01-09",
+      "municipio": "Rio de Janeiro",
+      "casos": 286,
+      "obitos": 4,
+      "recuperados": 276,
+      "ativos": 6
+    },
+    {
+      "data": "2022-01-16",
+      "municipio": "Rio de Janeiro",
+      "casos": 280,
+      "obitos": 4,
+      "recuperados": 272,
+      "ativos": 4
+    },
+    {
+      "data": "2022-01-23",
+      "municipio": "Rio de Janeiro",
+      "casos": 285,
+      "obitos": 13,
+      "recuperados": 266,
+      "ativos": 6
+    },
+    {
+      "data": "2022-01-30",
+      "municipio": "Rio de Janeiro",
+      "casos": 274,
+      "obitos": 7,
+      "recuperados": 258,
+      "ativos": 9
+    },
+    {
+      "data": "2022-02-06",
+      "municipio": "Rio de Janeiro",
+      "casos": 288,
+      "obitos": 7,
+      "recuperados": 277,
+      "ativos": 4
+    },
+    {
+      "data": "2022-02-13",
+      "municipio": "Rio de Janeiro",
+      "casos": 289,
+      "obitos": 11,
+      "recuperados": 277,
+      "ativos": 1
+    },
+    {
+      "data": "2022-02-20",
+      "municipio": "Rio de Janeiro",
+      "casos": 296,
+      "obitos": 9,
+      "recuperados": 283,
+      "ativos": 4
+    },
+    {
+      "data": "2022-02-27",
+      "municipio": "Rio de Janeiro",
+      "casos": 289,
+      "obitos": 13,
+      "recuperados": 268,
+      "ativos": 8
+    },
+    {
+      "data": "2022-03-06",
+      "municipio": "Rio de Janeiro",
+      "casos": 301,
+      "obitos": 12,
+      "recuperados": 287,
+      "ativos": 2
+    },
+    {
+      "data": "2022-03-13",
+      "municipio": "Rio de Janeiro",
+      "casos": 307,
+      "obitos": 8,
+      "recuperados": 290,
+      "ativos": 9
+    },
+    {
+      "data": "2022-03-20",
+      "municipio": "Rio de Janeiro",
+      "casos": 299,
+      "obitos": 7,
+      "recuperados": 287,
+      "ativos": 5
+    },
+    {
+      "data": "2022-03-27",
+      "municipio": "Rio de Janeiro",
+      "casos": 301,
+      "obitos": 14,
+      "recuperados": 281,
+      "ativos": 6
+    },
+    {
+      "data": "2022-04-03",
+      "municipio": "Rio de Janeiro",
+      "casos": 298,
+      "obitos": 11,
+      "recuperados": 284,
+      "ativos": 3
+    },
+    {
+      "data": "2022-04-10",
+      "municipio": "Rio de Janeiro",
+      "casos": 297,
+      "obitos": 14,
+      "recuperados": 274,
+      "ativos": 9
+    },
+    {
+      "data": "2022-04-17",
+      "municipio": "Rio de Janeiro",
+      "casos": 290,
+      "obitos": 4,
+      "recuperados": 286,
+      "ativos": 0
+    },
+    {
+      "data": "2022-04-24",
+      "municipio": "Rio de Janeiro",
+      "casos": 299,
+      "obitos": 13,
+      "recuperados": 284,
+      "ativos": 2
+    },
+    {
+      "data": "2022-05-01",
+      "municipio": "Rio de Janeiro",
+      "casos": 294,
+      "obitos": 10,
+      "recuperados": 280,
+      "ativos": 4
+    },
+    {
+      "data": "2022-05-08",
+      "municipio": "Rio de Janeiro",
+      "casos": 314,
+      "obitos": 4,
+      "recuperados": 306,
+      "ativos": 4
+    },
+    {
+      "data": "2022-05-15",
+      "municipio": "Rio de Janeiro",
+      "casos": 307,
+      "obitos": 10,
+      "recuperados": 293,
+      "ativos": 4
+    },
+    {
+      "data": "2022-05-22",
+      "municipio": "Rio de Janeiro",
+      "casos": 294,
+      "obitos": 11,
+      "recuperados": 282,
+      "ativos": 1
+    },
+    {
+      "data": "2022-05-29",
+      "municipio": "Rio de Janeiro",
+      "casos": 280,
+      "obitos": 2,
+      "recuperados": 276,
+      "ativos": 2
+    },
+    {
+      "data": "2022-06-05",
+      "municipio": "Rio de Janeiro",
+      "casos": 274,
+      "obitos": 7,
+      "recuperados": 267,
+      "ativos": 0
+    },
+    {
+      "data": "2022-06-12",
+      "municipio": "Rio de Janeiro",
+      "casos": 295,
+      "obitos": 12,
+      "recuperados": 278,
+      "ativos": 5
+    },
+    {
+      "data": "2022-06-19",
+      "municipio": "Rio de Janeiro",
+      "casos": 283,
+      "obitos": 6,
+      "recuperados": 274,
+      "ativos": 3
+    },
+    {
+      "data": "2022-06-26",
+      "municipio": "Rio de Janeiro",
+      "casos": 283,
+      "obitos": 8,
+      "recuperados": 270,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-03",
+      "municipio": "Rio de Janeiro",
+      "casos": 258,
+      "obitos": 7,
+      "recuperados": 246,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-10",
+      "municipio": "Rio de Janeiro",
+      "casos": 282,
+      "obitos": 6,
+      "recuperados": 269,
+      "ativos": 7
+    },
+    {
+      "data": "2022-07-17",
+      "municipio": "Rio de Janeiro",
+      "casos": 275,
+      "obitos": 12,
+      "recuperados": 258,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-24",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 10,
+      "recuperados": 241,
+      "ativos": 6
+    },
+    {
+      "data": "2022-07-31",
+      "municipio": "Rio de Janeiro",
+      "casos": 261,
+      "obitos": 3,
+      "recuperados": 253,
+      "ativos": 5
+    },
+    {
+      "data": "2022-08-07",
+      "municipio": "Rio de Janeiro",
+      "casos": 266,
+      "obitos": 13,
+      "recuperados": 247,
+      "ativos": 6
+    },
+    {
+      "data": "2022-08-14",
+      "municipio": "Rio de Janeiro",
+      "casos": 262,
+      "obitos": 11,
+      "recuperados": 245,
+      "ativos": 6
+    },
+    {
+      "data": "2022-08-21",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 5,
+      "recuperados": 249,
+      "ativos": 3
+    },
+    {
+      "data": "2022-08-28",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 11,
+      "recuperados": 244,
+      "ativos": 2
+    },
+    {
+      "data": "2022-09-04",
+      "municipio": "Rio de Janeiro",
+      "casos": 254,
+      "obitos": 3,
+      "recuperados": 244,
+      "ativos": 7
+    },
+    {
+      "data": "2022-09-11",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 12,
+      "recuperados": 242,
+      "ativos": 3
+    },
+    {
+      "data": "2022-09-18",
+      "municipio": "Rio de Janeiro",
+      "casos": 269,
+      "obitos": 9,
+      "recuperados": 255,
+      "ativos": 5
+    },
+    {
+      "data": "2022-09-25",
+      "municipio": "Rio de Janeiro",
+      "casos": 228,
+      "obitos": 8,
+      "recuperados": 219,
+      "ativos": 1
+    },
+    {
+      "data": "2022-10-02",
+      "municipio": "Rio de Janeiro",
+      "casos": 251,
+      "obitos": 3,
+      "recuperados": 244,
+      "ativos": 4
+    },
+    {
+      "data": "2022-10-09",
+      "municipio": "Rio de Janeiro",
+      "casos": 256,
+      "obitos": 11,
+      "recuperados": 240,
+      "ativos": 5
+    },
+    {
+      "data": "2022-10-16",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 2,
+      "recuperados": 249,
+      "ativos": 6
+    },
+    {
+      "data": "2022-10-23",
+      "municipio": "Rio de Janeiro",
+      "casos": 251,
+      "obitos": 4,
+      "recuperados": 242,
+      "ativos": 5
+    },
+    {
+      "data": "2022-10-30",
+      "municipio": "Rio de Janeiro",
+      "casos": 238,
+      "obitos": 3,
+      "recuperados": 232,
+      "ativos": 3
+    },
+    {
+      "data": "2022-11-06",
+      "municipio": "Rio de Janeiro",
+      "casos": 260,
+      "obitos": 10,
+      "recuperados": 241,
+      "ativos": 9
+    },
+    {
+      "data": "2022-11-13",
+      "municipio": "Rio de Janeiro",
+      "casos": 275,
+      "obitos": 4,
+      "recuperados": 266,
+      "ativos": 5
+    },
+    {
+      "data": "2022-11-20",
+      "municipio": "Rio de Janeiro",
+      "casos": 244,
+      "obitos": 11,
+      "recuperados": 225,
+      "ativos": 8
+    },
+    {
+      "data": "2022-11-27",
+      "municipio": "Rio de Janeiro",
+      "casos": 270,
+      "obitos": 9,
+      "recuperados": 254,
+      "ativos": 7
+    },
+    {
+      "data": "2022-12-04",
+      "municipio": "Rio de Janeiro",
+      "casos": 260,
+      "obitos": 2,
+      "recuperados": 253,
+      "ativos": 5
+    },
+    {
+      "data": "2022-12-11",
+      "municipio": "Rio de Janeiro",
+      "casos": 265,
+      "obitos": 2,
+      "recuperados": 255,
+      "ativos": 8
+    },
+    {
+      "data": "2022-12-18",
+      "municipio": "Rio de Janeiro",
+      "casos": 257,
+      "obitos": 3,
+      "recuperados": 253,
+      "ativos": 1
+    },
+    {
+      "data": "2022-12-25",
+      "municipio": "Rio de Janeiro",
+      "casos": 266,
+      "obitos": 9,
+      "recuperados": 248,
+      "ativos": 9
+    },
+    {
+      "data": "2023-01-01",
+      "municipio": "Rio de Janeiro",
+      "casos": 285,
+      "obitos": 11,
+      "recuperados": 266,
+      "ativos": 8
+    },
+    {
+      "data": "2023-01-08",
+      "municipio": "Rio de Janeiro",
+      "casos": 280,
+      "obitos": 5,
+      "recuperados": 270,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-15",
+      "municipio": "Rio de Janeiro",
+      "casos": 294,
+      "obitos": 12,
+      "recuperados": 275,
+      "ativos": 7
+    },
+    {
+      "data": "2023-01-22",
+      "municipio": "Rio de Janeiro",
+      "casos": 290,
+      "obitos": 3,
+      "recuperados": 282,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-29",
+      "municipio": "Rio de Janeiro",
+      "casos": 285,
+      "obitos": 11,
+      "recuperados": 272,
+      "ativos": 2
+    },
+    {
+      "data": "2023-02-05",
+      "municipio": "Rio de Janeiro",
+      "casos": 300,
+      "obitos": 14,
+      "recuperados": 279,
+      "ativos": 7
+    },
+    {
+      "data": "2023-02-12",
+      "municipio": "Rio de Janeiro",
+      "casos": 289,
+      "obitos": 11,
+      "recuperados": 276,
+      "ativos": 2
+    },
+    {
+      "data": "2023-02-19",
+      "municipio": "Rio de Janeiro",
+      "casos": 294,
+      "obitos": 11,
+      "recuperados": 280,
+      "ativos": 3
+    },
+    {
+      "data": "2023-02-26",
+      "municipio": "Rio de Janeiro",
+      "casos": 284,
+      "obitos": 12,
+      "recuperados": 267,
+      "ativos": 5
+    },
+    {
+      "data": "2023-03-05",
+      "municipio": "Rio de Janeiro",
+      "casos": 289,
+      "obitos": 3,
+      "recuperados": 278,
+      "ativos": 8
+    },
+    {
+      "data": "2023-03-12",
+      "municipio": "Rio de Janeiro",
+      "casos": 282,
+      "obitos": 5,
+      "recuperados": 274,
+      "ativos": 3
+    },
+    {
+      "data": "2023-03-19",
+      "municipio": "Rio de Janeiro",
+      "casos": 300,
+      "obitos": 4,
+      "recuperados": 292,
+      "ativos": 4
+    },
+    {
+      "data": "2023-03-26",
+      "municipio": "Rio de Janeiro",
+      "casos": 278,
+      "obitos": 8,
+      "recuperados": 270,
+      "ativos": 0
+    },
+    {
+      "data": "2023-04-02",
+      "municipio": "Rio de Janeiro",
+      "casos": 298,
+      "obitos": 11,
+      "recuperados": 286,
+      "ativos": 1
+    },
+    {
+      "data": "2023-04-09",
+      "municipio": "Rio de Janeiro",
+      "casos": 288,
+      "obitos": 10,
+      "recuperados": 278,
+      "ativos": 0
+    },
+    {
+      "data": "2023-04-16",
+      "municipio": "Rio de Janeiro",
+      "casos": 301,
+      "obitos": 13,
+      "recuperados": 288,
+      "ativos": 0
+    },
+    {
+      "data": "2023-04-23",
+      "municipio": "Rio de Janeiro",
+      "casos": 296,
+      "obitos": 4,
+      "recuperados": 284,
+      "ativos": 8
+    },
+    {
+      "data": "2023-04-30",
+      "municipio": "Rio de Janeiro",
+      "casos": 305,
+      "obitos": 12,
+      "recuperados": 285,
+      "ativos": 8
+    },
+    {
+      "data": "2023-05-07",
+      "municipio": "Rio de Janeiro",
+      "casos": 293,
+      "obitos": 5,
+      "recuperados": 280,
+      "ativos": 8
+    },
+    {
+      "data": "2023-05-14",
+      "municipio": "Rio de Janeiro",
+      "casos": 268,
+      "obitos": 5,
+      "recuperados": 263,
+      "ativos": 0
+    },
+    {
+      "data": "2023-05-21",
+      "municipio": "Rio de Janeiro",
+      "casos": 282,
+      "obitos": 10,
+      "recuperados": 272,
+      "ativos": 0
+    },
+    {
+      "data": "2023-05-28",
+      "municipio": "Rio de Janeiro",
+      "casos": 269,
+      "obitos": 13,
+      "recuperados": 254,
+      "ativos": 2
+    },
+    {
+      "data": "2023-06-04",
+      "municipio": "Rio de Janeiro",
+      "casos": 273,
+      "obitos": 9,
+      "recuperados": 259,
+      "ativos": 5
+    },
+    {
+      "data": "2023-06-11",
+      "municipio": "Rio de Janeiro",
+      "casos": 291,
+      "obitos": 3,
+      "recuperados": 285,
+      "ativos": 3
+    },
+    {
+      "data": "2023-06-18",
+      "municipio": "Rio de Janeiro",
+      "casos": 280,
+      "obitos": 9,
+      "recuperados": 267,
+      "ativos": 4
+    },
+    {
+      "data": "2023-06-25",
+      "municipio": "Rio de Janeiro",
+      "casos": 264,
+      "obitos": 3,
+      "recuperados": 260,
+      "ativos": 1
+    },
+    {
+      "data": "2023-07-02",
+      "municipio": "Rio de Janeiro",
+      "casos": 258,
+      "obitos": 11,
+      "recuperados": 240,
+      "ativos": 7
+    },
+    {
+      "data": "2023-07-09",
+      "municipio": "Rio de Janeiro",
+      "casos": 266,
+      "obitos": 10,
+      "recuperados": 253,
+      "ativos": 3
+    },
+    {
+      "data": "2023-07-16",
+      "municipio": "Rio de Janeiro",
+      "casos": 251,
+      "obitos": 4,
+      "recuperados": 247,
+      "ativos": 0
+    },
+    {
+      "data": "2023-07-23",
+      "municipio": "Rio de Janeiro",
+      "casos": 254,
+      "obitos": 3,
+      "recuperados": 244,
+      "ativos": 7
+    },
+    {
+      "data": "2023-07-30",
+      "municipio": "Rio de Janeiro",
+      "casos": 261,
+      "obitos": 4,
+      "recuperados": 248,
+      "ativos": 9
+    },
+    {
+      "data": "2023-08-06",
+      "municipio": "Rio de Janeiro",
+      "casos": 268,
+      "obitos": 13,
+      "recuperados": 255,
+      "ativos": 0
+    },
+    {
+      "data": "2023-08-13",
+      "municipio": "Rio de Janeiro",
+      "casos": 260,
+      "obitos": 7,
+      "recuperados": 249,
+      "ativos": 4
+    },
+    {
+      "data": "2023-08-20",
+      "municipio": "Rio de Janeiro",
+      "casos": 229,
+      "obitos": 9,
+      "recuperados": 212,
+      "ativos": 8
+    },
+    {
+      "data": "2023-08-27",
+      "municipio": "Rio de Janeiro",
+      "casos": 254,
+      "obitos": 9,
+      "recuperados": 238,
+      "ativos": 7
+    },
+    {
+      "data": "2023-09-03",
+      "municipio": "Rio de Janeiro",
+      "casos": 250,
+      "obitos": 8,
+      "recuperados": 234,
+      "ativos": 8
+    },
+    {
+      "data": "2023-09-10",
+      "municipio": "Rio de Janeiro",
+      "casos": 252,
+      "obitos": 3,
+      "recuperados": 245,
+      "ativos": 4
+    },
+    {
+      "data": "2023-09-17",
+      "municipio": "Rio de Janeiro",
+      "casos": 263,
+      "obitos": 12,
+      "recuperados": 248,
+      "ativos": 3
+    },
+    {
+      "data": "2023-09-24",
+      "municipio": "Rio de Janeiro",
+      "casos": 226,
+      "obitos": 4,
+      "recuperados": 215,
+      "ativos": 7
+    },
+    {
+      "data": "2023-10-01",
+      "municipio": "Rio de Janeiro",
+      "casos": 240,
+      "obitos": 7,
+      "recuperados": 232,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-08",
+      "municipio": "Rio de Janeiro",
+      "casos": 252,
+      "obitos": 9,
+      "recuperados": 241,
+      "ativos": 2
+    },
+    {
+      "data": "2023-10-15",
+      "municipio": "Rio de Janeiro",
+      "casos": 231,
+      "obitos": 8,
+      "recuperados": 217,
+      "ativos": 6
+    },
+    {
+      "data": "2023-10-22",
+      "municipio": "Rio de Janeiro",
+      "casos": 262,
+      "obitos": 12,
+      "recuperados": 244,
+      "ativos": 6
+    },
+    {
+      "data": "2023-10-29",
+      "municipio": "Rio de Janeiro",
+      "casos": 252,
+      "obitos": 4,
+      "recuperados": 247,
+      "ativos": 1
+    },
+    {
+      "data": "2023-11-05",
+      "municipio": "Rio de Janeiro",
+      "casos": 258,
+      "obitos": 7,
+      "recuperados": 246,
+      "ativos": 5
+    },
+    {
+      "data": "2023-11-12",
+      "municipio": "Rio de Janeiro",
+      "casos": 245,
+      "obitos": 6,
+      "recuperados": 236,
+      "ativos": 3
+    },
+    {
+      "data": "2023-11-19",
+      "municipio": "Rio de Janeiro",
+      "casos": 260,
+      "obitos": 7,
+      "recuperados": 248,
+      "ativos": 5
+    },
+    {
+      "data": "2023-11-26",
+      "municipio": "Rio de Janeiro",
+      "casos": 264,
+      "obitos": 3,
+      "recuperados": 252,
+      "ativos": 9
+    },
+    {
+      "data": "2023-12-03",
+      "municipio": "Rio de Janeiro",
+      "casos": 258,
+      "obitos": 3,
+      "recuperados": 255,
+      "ativos": 0
+    },
+    {
+      "data": "2023-12-10",
+      "municipio": "Rio de Janeiro",
+      "casos": 260,
+      "obitos": 5,
+      "recuperados": 246,
+      "ativos": 9
+    },
+    {
+      "data": "2023-12-17",
+      "municipio": "Rio de Janeiro",
+      "casos": 263,
+      "obitos": 5,
+      "recuperados": 254,
+      "ativos": 4
+    },
+    {
+      "data": "2023-12-24",
+      "municipio": "Rio de Janeiro",
+      "casos": 253,
+      "obitos": 6,
+      "recuperados": 240,
+      "ativos": 7
+    },
+    {
+      "data": "2022-01-02",
+      "municipio": "Salvador",
+      "casos": 247,
+      "obitos": 5,
+      "recuperados": 238,
+      "ativos": 4
+    },
+    {
+      "data": "2022-01-09",
+      "municipio": "Salvador",
+      "casos": 267,
+      "obitos": 3,
+      "recuperados": 261,
+      "ativos": 3
+    },
+    {
+      "data": "2022-01-16",
+      "municipio": "Salvador",
+      "casos": 263,
+      "obitos": 7,
+      "recuperados": 255,
+      "ativos": 1
+    },
+    {
+      "data": "2022-01-23",
+      "municipio": "Salvador",
+      "casos": 258,
+      "obitos": 12,
+      "recuperados": 237,
+      "ativos": 9
+    },
+    {
+      "data": "2022-01-30",
+      "municipio": "Salvador",
+      "casos": 290,
+      "obitos": 10,
+      "recuperados": 274,
+      "ativos": 6
+    },
+    {
+      "data": "2022-02-06",
+      "municipio": "Salvador",
+      "casos": 292,
+      "obitos": 8,
+      "recuperados": 281,
+      "ativos": 3
+    },
+    {
+      "data": "2022-02-13",
+      "municipio": "Salvador",
+      "casos": 290,
+      "obitos": 4,
+      "recuperados": 282,
+      "ativos": 4
+    },
+    {
+      "data": "2022-02-20",
+      "municipio": "Salvador",
+      "casos": 280,
+      "obitos": 5,
+      "recuperados": 268,
+      "ativos": 7
+    },
+    {
+      "data": "2022-02-27",
+      "municipio": "Salvador",
+      "casos": 292,
+      "obitos": 6,
+      "recuperados": 279,
+      "ativos": 7
+    },
+    {
+      "data": "2022-03-06",
+      "municipio": "Salvador",
+      "casos": 280,
+      "obitos": 11,
+      "recuperados": 265,
+      "ativos": 4
+    },
+    {
+      "data": "2022-03-13",
+      "municipio": "Salvador",
+      "casos": 283,
+      "obitos": 12,
+      "recuperados": 268,
+      "ativos": 3
+    },
+    {
+      "data": "2022-03-20",
+      "municipio": "Salvador",
+      "casos": 270,
+      "obitos": 12,
+      "recuperados": 252,
+      "ativos": 6
+    },
+    {
+      "data": "2022-03-27",
+      "municipio": "Salvador",
+      "casos": 285,
+      "obitos": 14,
+      "recuperados": 265,
+      "ativos": 6
+    },
+    {
+      "data": "2022-04-03",
+      "municipio": "Salvador",
+      "casos": 282,
+      "obitos": 13,
+      "recuperados": 264,
+      "ativos": 5
+    },
+    {
+      "data": "2022-04-10",
+      "municipio": "Salvador",
+      "casos": 268,
+      "obitos": 12,
+      "recuperados": 256,
+      "ativos": 0
+    },
+    {
+      "data": "2022-04-17",
+      "municipio": "Salvador",
+      "casos": 279,
+      "obitos": 3,
+      "recuperados": 272,
+      "ativos": 4
+    },
+    {
+      "data": "2022-04-24",
+      "municipio": "Salvador",
+      "casos": 278,
+      "obitos": 4,
+      "recuperados": 268,
+      "ativos": 6
+    },
+    {
+      "data": "2022-05-01",
+      "municipio": "Salvador",
+      "casos": 296,
+      "obitos": 6,
+      "recuperados": 281,
+      "ativos": 9
+    },
+    {
+      "data": "2022-05-08",
+      "municipio": "Salvador",
+      "casos": 285,
+      "obitos": 9,
+      "recuperados": 271,
+      "ativos": 5
+    },
+    {
+      "data": "2022-05-15",
+      "municipio": "Salvador",
+      "casos": 275,
+      "obitos": 3,
+      "recuperados": 269,
+      "ativos": 3
+    },
+    {
+      "data": "2022-05-22",
+      "municipio": "Salvador",
+      "casos": 275,
+      "obitos": 12,
+      "recuperados": 258,
+      "ativos": 5
+    },
+    {
+      "data": "2022-05-29",
+      "municipio": "Salvador",
+      "casos": 271,
+      "obitos": 9,
+      "recuperados": 261,
+      "ativos": 1
+    },
+    {
+      "data": "2022-06-05",
+      "municipio": "Salvador",
+      "casos": 266,
+      "obitos": 8,
+      "recuperados": 258,
+      "ativos": 0
+    },
+    {
+      "data": "2022-06-12",
+      "municipio": "Salvador",
+      "casos": 255,
+      "obitos": 4,
+      "recuperados": 245,
+      "ativos": 6
+    },
+    {
+      "data": "2022-06-19",
+      "municipio": "Salvador",
+      "casos": 261,
+      "obitos": 5,
+      "recuperados": 247,
+      "ativos": 9
+    },
+    {
+      "data": "2022-06-26",
+      "municipio": "Salvador",
+      "casos": 253,
+      "obitos": 4,
+      "recuperados": 241,
+      "ativos": 8
+    },
+    {
+      "data": "2022-07-03",
+      "municipio": "Salvador",
+      "casos": 245,
+      "obitos": 10,
+      "recuperados": 230,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-10",
+      "municipio": "Salvador",
+      "casos": 260,
+      "obitos": 8,
+      "recuperados": 252,
+      "ativos": 0
+    },
+    {
+      "data": "2022-07-17",
+      "municipio": "Salvador",
+      "casos": 256,
+      "obitos": 10,
+      "recuperados": 237,
+      "ativos": 9
+    },
+    {
+      "data": "2022-07-24",
+      "municipio": "Salvador",
+      "casos": 232,
+      "obitos": 5,
+      "recuperados": 223,
+      "ativos": 4
+    },
+    {
+      "data": "2022-07-31",
+      "municipio": "Salvador",
+      "casos": 246,
+      "obitos": 6,
+      "recuperados": 238,
+      "ativos": 2
+    },
+    {
+      "data": "2022-08-07",
+      "municipio": "Salvador",
+      "casos": 255,
+      "obitos": 6,
+      "recuperados": 241,
+      "ativos": 8
+    },
+    {
+      "data": "2022-08-14",
+      "municipio": "Salvador",
+      "casos": 253,
+      "obitos": 10,
+      "recuperados": 236,
+      "ativos": 7
+    },
+    {
+      "data": "2022-08-21",
+      "municipio": "Salvador",
+      "casos": 251,
+      "obitos": 10,
+      "recuperados": 234,
+      "ativos": 7
+    },
+    {
+      "data": "2022-08-28",
+      "municipio": "Salvador",
+      "casos": 240,
+      "obitos": 4,
+      "recuperados": 234,
+      "ativos": 2
+    },
+    {
+      "data": "2022-09-04",
+      "municipio": "Salvador",
+      "casos": 229,
+      "obitos": 10,
+      "recuperados": 210,
+      "ativos": 9
+    },
+    {
+      "data": "2022-09-11",
+      "municipio": "Salvador",
+      "casos": 226,
+      "obitos": 3,
+      "recuperados": 219,
+      "ativos": 4
+    },
+    {
+      "data": "2022-09-18",
+      "municipio": "Salvador",
+      "casos": 239,
+      "obitos": 10,
+      "recuperados": 224,
+      "ativos": 5
+    },
+    {
+      "data": "2022-09-25",
+      "municipio": "Salvador",
+      "casos": 238,
+      "obitos": 3,
+      "recuperados": 228,
+      "ativos": 7
+    },
+    {
+      "data": "2022-10-02",
+      "municipio": "Salvador",
+      "casos": 247,
+      "obitos": 5,
+      "recuperados": 236,
+      "ativos": 6
+    },
+    {
+      "data": "2022-10-09",
+      "municipio": "Salvador",
+      "casos": 245,
+      "obitos": 10,
+      "recuperados": 234,
+      "ativos": 1
+    },
+    {
+      "data": "2022-10-16",
+      "municipio": "Salvador",
+      "casos": 233,
+      "obitos": 4,
+      "recuperados": 226,
+      "ativos": 3
+    },
+    {
+      "data": "2022-10-23",
+      "municipio": "Salvador",
+      "casos": 222,
+      "obitos": 5,
+      "recuperados": 214,
+      "ativos": 3
+    },
+    {
+      "data": "2022-10-30",
+      "municipio": "Salvador",
+      "casos": 232,
+      "obitos": 6,
+      "recuperados": 217,
+      "ativos": 9
+    },
+    {
+      "data": "2022-11-06",
+      "municipio": "Salvador",
+      "casos": 239,
+      "obitos": 4,
+      "recuperados": 228,
+      "ativos": 7
+    },
+    {
+      "data": "2022-11-13",
+      "municipio": "Salvador",
+      "casos": 236,
+      "obitos": 9,
+      "recuperados": 224,
+      "ativos": 3
+    },
+    {
+      "data": "2022-11-20",
+      "municipio": "Salvador",
+      "casos": 233,
+      "obitos": 10,
+      "recuperados": 216,
+      "ativos": 7
+    },
+    {
+      "data": "2022-11-27",
+      "municipio": "Salvador",
+      "casos": 243,
+      "obitos": 10,
+      "recuperados": 226,
+      "ativos": 7
+    },
+    {
+      "data": "2022-12-04",
+      "municipio": "Salvador",
+      "casos": 238,
+      "obitos": 5,
+      "recuperados": 230,
+      "ativos": 3
+    },
+    {
+      "data": "2022-12-11",
+      "municipio": "Salvador",
+      "casos": 238,
+      "obitos": 7,
+      "recuperados": 227,
+      "ativos": 4
+    },
+    {
+      "data": "2022-12-18",
+      "municipio": "Salvador",
+      "casos": 250,
+      "obitos": 4,
+      "recuperados": 238,
+      "ativos": 8
+    },
+    {
+      "data": "2022-12-25",
+      "municipio": "Salvador",
+      "casos": 245,
+      "obitos": 4,
+      "recuperados": 236,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-01",
+      "municipio": "Salvador",
+      "casos": 253,
+      "obitos": 4,
+      "recuperados": 248,
+      "ativos": 1
+    },
+    {
+      "data": "2023-01-08",
+      "municipio": "Salvador",
+      "casos": 256,
+      "obitos": 12,
+      "recuperados": 237,
+      "ativos": 7
+    },
+    {
+      "data": "2023-01-15",
+      "municipio": "Salvador",
+      "casos": 244,
+      "obitos": 11,
+      "recuperados": 228,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-22",
+      "municipio": "Salvador",
+      "casos": 252,
+      "obitos": 10,
+      "recuperados": 237,
+      "ativos": 5
+    },
+    {
+      "data": "2023-01-29",
+      "municipio": "Salvador",
+      "casos": 273,
+      "obitos": 8,
+      "recuperados": 258,
+      "ativos": 7
+    },
+    {
+      "data": "2023-02-05",
+      "municipio": "Salvador",
+      "casos": 249,
+      "obitos": 7,
+      "recuperados": 233,
+      "ativos": 9
+    },
+    {
+      "data": "2023-02-12",
+      "municipio": "Salvador",
+      "casos": 241,
+      "obitos": 7,
+      "recuperados": 231,
+      "ativos": 3
+    },
+    {
+      "data": "2023-02-19",
+      "municipio": "Salvador",
+      "casos": 245,
+      "obitos": 7,
+      "recuperados": 234,
+      "ativos": 4
+    },
+    {
+      "data": "2023-02-26",
+      "municipio": "Salvador",
+      "casos": 266,
+      "obitos": 7,
+      "recuperados": 258,
+      "ativos": 1
+    },
+    {
+      "data": "2023-03-05",
+      "municipio": "Salvador",
+      "casos": 267,
+      "obitos": 4,
+      "recuperados": 257,
+      "ativos": 6
+    },
+    {
+      "data": "2023-03-12",
+      "municipio": "Salvador",
+      "casos": 266,
+      "obitos": 3,
+      "recuperados": 259,
+      "ativos": 4
+    },
+    {
+      "data": "2023-03-19",
+      "municipio": "Salvador",
+      "casos": 280,
+      "obitos": 13,
+      "recuperados": 264,
+      "ativos": 3
+    },
+    {
+      "data": "2023-03-26",
+      "municipio": "Salvador",
+      "casos": 241,
+      "obitos": 7,
+      "recuperados": 228,
+      "ativos": 6
+    },
+    {
+      "data": "2023-04-02",
+      "municipio": "Salvador",
+      "casos": 271,
+      "obitos": 13,
+      "recuperados": 254,
+      "ativos": 4
+    },
+    {
+      "data": "2023-04-09",
+      "municipio": "Salvador",
+      "casos": 283,
+      "obitos": 4,
+      "recuperados": 275,
+      "ativos": 4
+    },
+    {
+      "data": "2023-04-16",
+      "municipio": "Salvador",
+      "casos": 255,
+      "obitos": 8,
+      "recuperados": 243,
+      "ativos": 4
+    },
+    {
+      "data": "2023-04-23",
+      "municipio": "Salvador",
+      "casos": 262,
+      "obitos": 4,
+      "recuperados": 256,
+      "ativos": 2
+    },
+    {
+      "data": "2023-04-30",
+      "municipio": "Salvador",
+      "casos": 257,
+      "obitos": 5,
+      "recuperados": 251,
+      "ativos": 1
+    },
+    {
+      "data": "2023-05-07",
+      "municipio": "Salvador",
+      "casos": 254,
+      "obitos": 2,
+      "recuperados": 244,
+      "ativos": 8
+    },
+    {
+      "data": "2023-05-14",
+      "municipio": "Salvador",
+      "casos": 258,
+      "obitos": 3,
+      "recuperados": 255,
+      "ativos": 0
+    },
+    {
+      "data": "2023-05-21",
+      "municipio": "Salvador",
+      "casos": 273,
+      "obitos": 12,
+      "recuperados": 258,
+      "ativos": 3
+    },
+    {
+      "data": "2023-05-28",
+      "municipio": "Salvador",
+      "casos": 275,
+      "obitos": 6,
+      "recuperados": 263,
+      "ativos": 6
+    },
+    {
+      "data": "2023-06-04",
+      "municipio": "Salvador",
+      "casos": 251,
+      "obitos": 8,
+      "recuperados": 242,
+      "ativos": 1
+    },
+    {
+      "data": "2023-06-11",
+      "municipio": "Salvador",
+      "casos": 271,
+      "obitos": 7,
+      "recuperados": 258,
+      "ativos": 6
+    },
+    {
+      "data": "2023-06-18",
+      "municipio": "Salvador",
+      "casos": 250,
+      "obitos": 6,
+      "recuperados": 237,
+      "ativos": 7
+    },
+    {
+      "data": "2023-06-25",
+      "municipio": "Salvador",
+      "casos": 264,
+      "obitos": 8,
+      "recuperados": 250,
+      "ativos": 6
+    },
+    {
+      "data": "2023-07-02",
+      "municipio": "Salvador",
+      "casos": 243,
+      "obitos": 4,
+      "recuperados": 236,
+      "ativos": 3
+    },
+    {
+      "data": "2023-07-09",
+      "municipio": "Salvador",
+      "casos": 243,
+      "obitos": 12,
+      "recuperados": 231,
+      "ativos": 0
+    },
+    {
+      "data": "2023-07-16",
+      "municipio": "Salvador",
+      "casos": 242,
+      "obitos": 10,
+      "recuperados": 224,
+      "ativos": 8
+    },
+    {
+      "data": "2023-07-23",
+      "municipio": "Salvador",
+      "casos": 268,
+      "obitos": 10,
+      "recuperados": 255,
+      "ativos": 3
+    },
+    {
+      "data": "2023-07-30",
+      "municipio": "Salvador",
+      "casos": 242,
+      "obitos": 6,
+      "recuperados": 228,
+      "ativos": 8
+    },
+    {
+      "data": "2023-08-06",
+      "municipio": "Salvador",
+      "casos": 224,
+      "obitos": 3,
+      "recuperados": 220,
+      "ativos": 1
+    },
+    {
+      "data": "2023-08-13",
+      "municipio": "Salvador",
+      "casos": 239,
+      "obitos": 11,
+      "recuperados": 227,
+      "ativos": 1
+    },
+    {
+      "data": "2023-08-20",
+      "municipio": "Salvador",
+      "casos": 224,
+      "obitos": 5,
+      "recuperados": 212,
+      "ativos": 7
+    },
+    {
+      "data": "2023-08-27",
+      "municipio": "Salvador",
+      "casos": 221,
+      "obitos": 2,
+      "recuperados": 210,
+      "ativos": 9
+    },
+    {
+      "data": "2023-09-03",
+      "municipio": "Salvador",
+      "casos": 233,
+      "obitos": 5,
+      "recuperados": 220,
+      "ativos": 8
+    },
+    {
+      "data": "2023-09-10",
+      "municipio": "Salvador",
+      "casos": 223,
+      "obitos": 9,
+      "recuperados": 207,
+      "ativos": 7
+    },
+    {
+      "data": "2023-09-17",
+      "municipio": "Salvador",
+      "casos": 225,
+      "obitos": 7,
+      "recuperados": 216,
+      "ativos": 2
+    },
+    {
+      "data": "2023-09-24",
+      "municipio": "Salvador",
+      "casos": 221,
+      "obitos": 8,
+      "recuperados": 204,
+      "ativos": 9
+    },
+    {
+      "data": "2023-10-01",
+      "municipio": "Salvador",
+      "casos": 224,
+      "obitos": 9,
+      "recuperados": 209,
+      "ativos": 6
+    },
+    {
+      "data": "2023-10-08",
+      "municipio": "Salvador",
+      "casos": 225,
+      "obitos": 4,
+      "recuperados": 220,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-15",
+      "municipio": "Salvador",
+      "casos": 201,
+      "obitos": 9,
+      "recuperados": 191,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-22",
+      "municipio": "Salvador",
+      "casos": 228,
+      "obitos": 6,
+      "recuperados": 214,
+      "ativos": 8
+    },
+    {
+      "data": "2023-10-29",
+      "municipio": "Salvador",
+      "casos": 212,
+      "obitos": 7,
+      "recuperados": 203,
+      "ativos": 2
+    },
+    {
+      "data": "2023-11-05",
+      "municipio": "Salvador",
+      "casos": 208,
+      "obitos": 2,
+      "recuperados": 199,
+      "ativos": 7
+    },
+    {
+      "data": "2023-11-12",
+      "municipio": "Salvador",
+      "casos": 224,
+      "obitos": 11,
+      "recuperados": 212,
+      "ativos": 1
+    },
+    {
+      "data": "2023-11-19",
+      "municipio": "Salvador",
+      "casos": 226,
+      "obitos": 4,
+      "recuperados": 220,
+      "ativos": 2
+    },
+    {
+      "data": "2023-11-26",
+      "municipio": "Salvador",
+      "casos": 220,
+      "obitos": 2,
+      "recuperados": 216,
+      "ativos": 2
+    },
+    {
+      "data": "2023-12-03",
+      "municipio": "Salvador",
+      "casos": 237,
+      "obitos": 6,
+      "recuperados": 229,
+      "ativos": 2
+    },
+    {
+      "data": "2023-12-10",
+      "municipio": "Salvador",
+      "casos": 218,
+      "obitos": 3,
+      "recuperados": 209,
+      "ativos": 6
+    },
+    {
+      "data": "2023-12-17",
+      "municipio": "Salvador",
+      "casos": 229,
+      "obitos": 3,
+      "recuperados": 217,
+      "ativos": 9
+    },
+    {
+      "data": "2023-12-24",
+      "municipio": "Salvador",
+      "casos": 229,
+      "obitos": 8,
+      "recuperados": 212,
+      "ativos": 9
+    },
+    {
+      "data": "2022-01-02",
+      "municipio": "São Paulo",
+      "casos": 61,
+      "obitos": 1,
+      "recuperados": 53,
+      "ativos": 7
+    },
+    {
+      "data": "2022-01-09",
+      "municipio": "São Paulo",
+      "casos": 82,
+      "obitos": 1,
+      "recuperados": 76,
+      "ativos": 5
+    },
+    {
+      "data": "2022-01-16",
+      "municipio": "São Paulo",
+      "casos": 87,
+      "obitos": 4,
+      "recuperados": 79,
+      "ativos": 4
+    },
+    {
+      "data": "2022-01-23",
+      "municipio": "São Paulo",
+      "casos": 61,
+      "obitos": 1,
+      "recuperados": 59,
+      "ativos": 1
+    },
+    {
+      "data": "2022-01-30",
+      "municipio": "São Paulo",
+      "casos": 70,
+      "obitos": 1,
+      "recuperados": 61,
+      "ativos": 8
+    },
+    {
+      "data": "2022-02-06",
+      "municipio": "São Paulo",
+      "casos": 87,
+      "obitos": 1,
+      "recuperados": 78,
+      "ativos": 8
+    },
+    {
+      "data": "2022-02-13",
+      "municipio": "São Paulo",
+      "casos": 85,
+      "obitos": 2,
+      "recuperados": 83,
+      "ativos": 0
+    },
+    {
+      "data": "2022-02-20",
+      "municipio": "São Paulo",
+      "casos": 90,
+      "obitos": 1,
+      "recuperados": 82,
+      "ativos": 7
+    },
+    {
+      "data": "2022-02-27",
+      "municipio": "São Paulo",
+      "casos": 84,
+      "obitos": 3,
+      "recuperados": 81,
+      "ativos": 0
+    },
+    {
+      "data": "2022-03-06",
+      "municipio": "São Paulo",
+      "casos": 103,
+      "obitos": 4,
+      "recuperados": 92,
+      "ativos": 7
+    },
+    {
+      "data": "2022-03-13",
+      "municipio": "São Paulo",
+      "casos": 103,
+      "obitos": 3,
+      "recuperados": 92,
+      "ativos": 8
+    },
+    {
+      "data": "2022-03-20",
+      "municipio": "São Paulo",
+      "casos": 97,
+      "obitos": 2,
+      "recuperados": 94,
+      "ativos": 1
+    },
+    {
+      "data": "2022-03-27",
+      "municipio": "São Paulo",
+      "casos": 109,
+      "obitos": 3,
+      "recuperados": 102,
+      "ativos": 4
+    },
+    {
+      "data": "2022-04-03",
+      "municipio": "São Paulo",
+      "casos": 103,
+      "obitos": 3,
+      "recuperados": 99,
+      "ativos": 1
+    },
+    {
+      "data": "2022-04-10",
+      "municipio": "São Paulo",
+      "casos": 90,
+      "obitos": 3,
+      "recuperados": 82,
+      "ativos": 5
+    },
+    {
+      "data": "2022-04-17",
+      "municipio": "São Paulo",
+      "casos": 103,
+      "obitos": 1,
+      "recuperados": 93,
+      "ativos": 9
+    },
+    {
+      "data": "2022-04-24",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 2,
+      "recuperados": 87,
+      "ativos": 0
+    },
+    {
+      "data": "2022-05-01",
+      "municipio": "São Paulo",
+      "casos": 107,
+      "obitos": 1,
+      "recuperados": 103,
+      "ativos": 3
+    },
+    {
+      "data": "2022-05-08",
+      "municipio": "São Paulo",
+      "casos": 97,
+      "obitos": 2,
+      "recuperados": 86,
+      "ativos": 9
+    },
+    {
+      "data": "2022-05-15",
+      "municipio": "São Paulo",
+      "casos": 95,
+      "obitos": 2,
+      "recuperados": 90,
+      "ativos": 3
+    },
+    {
+      "data": "2022-05-22",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 1,
+      "recuperados": 87,
+      "ativos": 1
+    },
+    {
+      "data": "2022-05-29",
+      "municipio": "São Paulo",
+      "casos": 106,
+      "obitos": 1,
+      "recuperados": 101,
+      "ativos": 4
+    },
+    {
+      "data": "2022-06-05",
+      "municipio": "São Paulo",
+      "casos": 91,
+      "obitos": 3,
+      "recuperados": 83,
+      "ativos": 5
+    },
+    {
+      "data": "2022-06-12",
+      "municipio": "São Paulo",
+      "casos": 87,
+      "obitos": 1,
+      "recuperados": 80,
+      "ativos": 6
+    },
+    {
+      "data": "2022-06-19",
+      "municipio": "São Paulo",
+      "casos": 86,
+      "obitos": 4,
+      "recuperados": 79,
+      "ativos": 3
+    },
+    {
+      "data": "2022-06-26",
+      "municipio": "São Paulo",
+      "casos": 93,
+      "obitos": 3,
+      "recuperados": 81,
+      "ativos": 9
+    },
+    {
+      "data": "2022-07-03",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 2,
+      "recuperados": 82,
+      "ativos": 5
+    },
+    {
+      "data": "2022-07-10",
+      "municipio": "São Paulo",
+      "casos": 88,
+      "obitos": 2,
+      "recuperados": 84,
+      "ativos": 2
+    },
+    {
+      "data": "2022-07-17",
+      "municipio": "São Paulo",
+      "casos": 86,
+      "obitos": 0,
+      "recuperados": 77,
+      "ativos": 9
+    },
+    {
+      "data": "2022-07-24",
+      "municipio": "São Paulo",
+      "casos": 101,
+      "obitos": 4,
+      "recuperados": 88,
+      "ativos": 9
+    },
+    {
+      "data": "2022-07-31",
+      "municipio": "São Paulo",
+      "casos": 74,
+      "obitos": 2,
+      "recuperados": 68,
+      "ativos": 4
+    },
+    {
+      "data": "2022-08-07",
+      "municipio": "São Paulo",
+      "casos": 72,
+      "obitos": 2,
+      "recuperados": 70,
+      "ativos": 0
+    },
+    {
+      "data": "2022-08-14",
+      "municipio": "São Paulo",
+      "casos": 67,
+      "obitos": 0,
+      "recuperados": 62,
+      "ativos": 5
+    },
+    {
+      "data": "2022-08-21",
+      "municipio": "São Paulo",
+      "casos": 80,
+      "obitos": 2,
+      "recuperados": 73,
+      "ativos": 5
+    },
+    {
+      "data": "2022-08-28",
+      "municipio": "São Paulo",
+      "casos": 84,
+      "obitos": 2,
+      "recuperados": 81,
+      "ativos": 1
+    },
+    {
+      "data": "2022-09-04",
+      "municipio": "São Paulo",
+      "casos": 71,
+      "obitos": 3,
+      "recuperados": 62,
+      "ativos": 6
+    },
+    {
+      "data": "2022-09-11",
+      "municipio": "São Paulo",
+      "casos": 64,
+      "obitos": 2,
+      "recuperados": 54,
+      "ativos": 8
+    },
+    {
+      "data": "2022-09-18",
+      "municipio": "São Paulo",
+      "casos": 64,
+      "obitos": 1,
+      "recuperados": 62,
+      "ativos": 1
+    },
+    {
+      "data": "2022-09-25",
+      "municipio": "São Paulo",
+      "casos": 78,
+      "obitos": 1,
+      "recuperados": 70,
+      "ativos": 7
+    },
+    {
+      "data": "2022-10-02",
+      "municipio": "São Paulo",
+      "casos": 80,
+      "obitos": 1,
+      "recuperados": 78,
+      "ativos": 1
+    },
+    {
+      "data": "2022-10-09",
+      "municipio": "São Paulo",
+      "casos": 78,
+      "obitos": 2,
+      "recuperados": 69,
+      "ativos": 7
+    },
+    {
+      "data": "2022-10-16",
+      "municipio": "São Paulo",
+      "casos": 67,
+      "obitos": 1,
+      "recuperados": 62,
+      "ativos": 4
+    },
+    {
+      "data": "2022-10-23",
+      "municipio": "São Paulo",
+      "casos": 78,
+      "obitos": 0,
+      "recuperados": 78,
+      "ativos": 0
+    },
+    {
+      "data": "2022-10-30",
+      "municipio": "São Paulo",
+      "casos": 78,
+      "obitos": 3,
+      "recuperados": 66,
+      "ativos": 9
+    },
+    {
+      "data": "2022-11-06",
+      "municipio": "São Paulo",
+      "casos": 81,
+      "obitos": 3,
+      "recuperados": 77,
+      "ativos": 1
+    },
+    {
+      "data": "2022-11-13",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 1,
+      "recuperados": 83,
+      "ativos": 5
+    },
+    {
+      "data": "2022-11-20",
+      "municipio": "São Paulo",
+      "casos": 85,
+      "obitos": 2,
+      "recuperados": 82,
+      "ativos": 1
+    },
+    {
+      "data": "2022-11-27",
+      "municipio": "São Paulo",
+      "casos": 92,
+      "obitos": 1,
+      "recuperados": 82,
+      "ativos": 9
+    },
+    {
+      "data": "2022-12-04",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 3,
+      "recuperados": 79,
+      "ativos": 7
+    },
+    {
+      "data": "2022-12-11",
+      "municipio": "São Paulo",
+      "casos": 93,
+      "obitos": 1,
+      "recuperados": 84,
+      "ativos": 8
+    },
+    {
+      "data": "2022-12-18",
+      "municipio": "São Paulo",
+      "casos": 100,
+      "obitos": 3,
+      "recuperados": 93,
+      "ativos": 4
+    },
+    {
+      "data": "2022-12-25",
+      "municipio": "São Paulo",
+      "casos": 82,
+      "obitos": 3,
+      "recuperados": 75,
+      "ativos": 4
+    },
+    {
+      "data": "2023-01-01",
+      "municipio": "São Paulo",
+      "casos": 96,
+      "obitos": 3,
+      "recuperados": 87,
+      "ativos": 6
+    },
+    {
+      "data": "2023-01-08",
+      "municipio": "São Paulo",
+      "casos": 98,
+      "obitos": 1,
+      "recuperados": 90,
+      "ativos": 7
+    },
+    {
+      "data": "2023-01-15",
+      "municipio": "São Paulo",
+      "casos": 99,
+      "obitos": 4,
+      "recuperados": 87,
+      "ativos": 8
+    },
+    {
+      "data": "2023-01-22",
+      "municipio": "São Paulo",
+      "casos": 105,
+      "obitos": 2,
+      "recuperados": 103,
+      "ativos": 0
+    },
+    {
+      "data": "2023-01-29",
+      "municipio": "São Paulo",
+      "casos": 126,
+      "obitos": 1,
+      "recuperados": 119,
+      "ativos": 6
+    },
+    {
+      "data": "2023-02-05",
+      "municipio": "São Paulo",
+      "casos": 105,
+      "obitos": 3,
+      "recuperados": 101,
+      "ativos": 1
+    },
+    {
+      "data": "2023-02-12",
+      "municipio": "São Paulo",
+      "casos": 125,
+      "obitos": 3,
+      "recuperados": 120,
+      "ativos": 2
+    },
+    {
+      "data": "2023-02-19",
+      "municipio": "São Paulo",
+      "casos": 101,
+      "obitos": 4,
+      "recuperados": 89,
+      "ativos": 8
+    },
+    {
+      "data": "2023-02-26",
+      "municipio": "São Paulo",
+      "casos": 117,
+      "obitos": 4,
+      "recuperados": 111,
+      "ativos": 2
+    },
+    {
+      "data": "2023-03-05",
+      "municipio": "São Paulo",
+      "casos": 123,
+      "obitos": 2,
+      "recuperados": 114,
+      "ativos": 7
+    },
+    {
+      "data": "2023-03-12",
+      "municipio": "São Paulo",
+      "casos": 129,
+      "obitos": 6,
+      "recuperados": 119,
+      "ativos": 4
+    },
+    {
+      "data": "2023-03-19",
+      "municipio": "São Paulo",
+      "casos": 132,
+      "obitos": 2,
+      "recuperados": 128,
+      "ativos": 2
+    },
+    {
+      "data": "2023-03-26",
+      "municipio": "São Paulo",
+      "casos": 133,
+      "obitos": 4,
+      "recuperados": 126,
+      "ativos": 3
+    },
+    {
+      "data": "2023-04-02",
+      "municipio": "São Paulo",
+      "casos": 123,
+      "obitos": 2,
+      "recuperados": 116,
+      "ativos": 5
+    },
+    {
+      "data": "2023-04-09",
+      "municipio": "São Paulo",
+      "casos": 122,
+      "obitos": 5,
+      "recuperados": 110,
+      "ativos": 7
+    },
+    {
+      "data": "2023-04-16",
+      "municipio": "São Paulo",
+      "casos": 135,
+      "obitos": 2,
+      "recuperados": 127,
+      "ativos": 6
+    },
+    {
+      "data": "2023-04-23",
+      "municipio": "São Paulo",
+      "casos": 125,
+      "obitos": 1,
+      "recuperados": 115,
+      "ativos": 9
+    },
+    {
+      "data": "2023-04-30",
+      "municipio": "São Paulo",
+      "casos": 113,
+      "obitos": 3,
+      "recuperados": 102,
+      "ativos": 8
+    },
+    {
+      "data": "2023-05-07",
+      "municipio": "São Paulo",
+      "casos": 114,
+      "obitos": 5,
+      "recuperados": 102,
+      "ativos": 7
+    },
+    {
+      "data": "2023-05-14",
+      "municipio": "São Paulo",
+      "casos": 115,
+      "obitos": 5,
+      "recuperados": 104,
+      "ativos": 6
+    },
+    {
+      "data": "2023-05-21",
+      "municipio": "São Paulo",
+      "casos": 128,
+      "obitos": 5,
+      "recuperados": 121,
+      "ativos": 2
+    },
+    {
+      "data": "2023-05-28",
+      "municipio": "São Paulo",
+      "casos": 123,
+      "obitos": 5,
+      "recuperados": 114,
+      "ativos": 4
+    },
+    {
+      "data": "2023-06-04",
+      "municipio": "São Paulo",
+      "casos": 127,
+      "obitos": 5,
+      "recuperados": 121,
+      "ativos": 1
+    },
+    {
+      "data": "2023-06-11",
+      "municipio": "São Paulo",
+      "casos": 114,
+      "obitos": 3,
+      "recuperados": 108,
+      "ativos": 3
+    },
+    {
+      "data": "2023-06-18",
+      "municipio": "São Paulo",
+      "casos": 118,
+      "obitos": 2,
+      "recuperados": 107,
+      "ativos": 9
+    },
+    {
+      "data": "2023-06-25",
+      "municipio": "São Paulo",
+      "casos": 121,
+      "obitos": 4,
+      "recuperados": 113,
+      "ativos": 4
+    },
+    {
+      "data": "2023-07-02",
+      "municipio": "São Paulo",
+      "casos": 110,
+      "obitos": 4,
+      "recuperados": 105,
+      "ativos": 1
+    },
+    {
+      "data": "2023-07-09",
+      "municipio": "São Paulo",
+      "casos": 116,
+      "obitos": 2,
+      "recuperados": 108,
+      "ativos": 6
+    },
+    {
+      "data": "2023-07-16",
+      "municipio": "São Paulo",
+      "casos": 103,
+      "obitos": 1,
+      "recuperados": 93,
+      "ativos": 9
+    },
+    {
+      "data": "2023-07-23",
+      "municipio": "São Paulo",
+      "casos": 104,
+      "obitos": 4,
+      "recuperados": 92,
+      "ativos": 8
+    },
+    {
+      "data": "2023-07-30",
+      "municipio": "São Paulo",
+      "casos": 102,
+      "obitos": 2,
+      "recuperados": 98,
+      "ativos": 2
+    },
+    {
+      "data": "2023-08-06",
+      "municipio": "São Paulo",
+      "casos": 93,
+      "obitos": 4,
+      "recuperados": 85,
+      "ativos": 4
+    },
+    {
+      "data": "2023-08-13",
+      "municipio": "São Paulo",
+      "casos": 108,
+      "obitos": 2,
+      "recuperados": 101,
+      "ativos": 5
+    },
+    {
+      "data": "2023-08-20",
+      "municipio": "São Paulo",
+      "casos": 97,
+      "obitos": 1,
+      "recuperados": 94,
+      "ativos": 2
+    },
+    {
+      "data": "2023-08-27",
+      "municipio": "São Paulo",
+      "casos": 101,
+      "obitos": 4,
+      "recuperados": 95,
+      "ativos": 2
+    },
+    {
+      "data": "2023-09-03",
+      "municipio": "São Paulo",
+      "casos": 105,
+      "obitos": 1,
+      "recuperados": 102,
+      "ativos": 2
+    },
+    {
+      "data": "2023-09-10",
+      "municipio": "São Paulo",
+      "casos": 104,
+      "obitos": 1,
+      "recuperados": 94,
+      "ativos": 9
+    },
+    {
+      "data": "2023-09-17",
+      "municipio": "São Paulo",
+      "casos": 106,
+      "obitos": 3,
+      "recuperados": 96,
+      "ativos": 7
+    },
+    {
+      "data": "2023-09-24",
+      "municipio": "São Paulo",
+      "casos": 99,
+      "obitos": 4,
+      "recuperados": 87,
+      "ativos": 8
+    },
+    {
+      "data": "2023-10-01",
+      "municipio": "São Paulo",
+      "casos": 96,
+      "obitos": 1,
+      "recuperados": 87,
+      "ativos": 8
+    },
+    {
+      "data": "2023-10-08",
+      "municipio": "São Paulo",
+      "casos": 100,
+      "obitos": 2,
+      "recuperados": 89,
+      "ativos": 9
+    },
+    {
+      "data": "2023-10-15",
+      "municipio": "São Paulo",
+      "casos": 85,
+      "obitos": 3,
+      "recuperados": 81,
+      "ativos": 1
+    },
+    {
+      "data": "2023-10-22",
+      "municipio": "São Paulo",
+      "casos": 89,
+      "obitos": 4,
+      "recuperados": 77,
+      "ativos": 8
+    },
+    {
+      "data": "2023-10-29",
+      "municipio": "São Paulo",
+      "casos": 91,
+      "obitos": 2,
+      "recuperados": 89,
+      "ativos": 0
+    },
+    {
+      "data": "2023-11-05",
+      "municipio": "São Paulo",
+      "casos": 96,
+      "obitos": 1,
+      "recuperados": 91,
+      "ativos": 4
+    },
+    {
+      "data": "2023-11-12",
+      "municipio": "São Paulo",
+      "casos": 112,
+      "obitos": 1,
+      "recuperados": 106,
+      "ativos": 5
+    },
+    {
+      "data": "2023-11-19",
+      "municipio": "São Paulo",
+      "casos": 102,
+      "obitos": 1,
+      "recuperados": 98,
+      "ativos": 3
+    },
+    {
+      "data": "2023-11-26",
+      "municipio": "São Paulo",
+      "casos": 109,
+      "obitos": 1,
+      "recuperados": 107,
+      "ativos": 1
+    },
+    {
+      "data": "2023-12-03",
+      "municipio": "São Paulo",
+      "casos": 129,
+      "obitos": 4,
+      "recuperados": 124,
+      "ativos": 1
+    },
+    {
+      "data": "2023-12-10",
+      "municipio": "São Paulo",
+      "casos": 115,
+      "obitos": 1,
+      "recuperados": 106,
+      "ativos": 8
+    },
+    {
+      "data": "2023-12-17",
+      "municipio": "São Paulo",
+      "casos": 129,
+      "obitos": 3,
+      "recuperados": 123,
+      "ativos": 3
+    },
+    {
+      "data": "2023-12-24",
+      "municipio": "São Paulo",
+      "casos": 115,
+      "obitos": 4,
+      "recuperados": 108,
+      "ativos": 3
+    }
+  ],
+  "resumo_estatistico": [
+    {
+      "municipio": "Belo Horizonte",
+      "total_casos": 16279,
+      "total_obitos": 419,
+      "total_recuperados": 15425,
+      "media_semanal_casos": 156.52884615384616,
+      "max_casos_semana": 191,
+      "min_casos_semana": 121,
+      "taxa_letalidade_pct": 2.57,
+      "taxa_recuperacao_pct": 94.75
+    },
+    {
+      "municipio": "Curitiba",
+      "total_casos": 24073,
+      "total_obitos": 638,
+      "total_recuperados": 22923,
+      "media_semanal_casos": 231.47115384615384,
+      "max_casos_semana": 263,
+      "min_casos_semana": 197,
+      "taxa_letalidade_pct": 2.65,
+      "taxa_recuperacao_pct": 95.22
+    },
+    {
+      "municipio": "Rio de Janeiro",
+      "total_casos": 28371,
+      "total_obitos": 806,
+      "total_recuperados": 27092,
+      "media_semanal_casos": 272.7980769230769,
+      "max_casos_semana": 314,
+      "min_casos_semana": 226,
+      "taxa_letalidade_pct": 2.84,
+      "taxa_recuperacao_pct": 95.49
+    },
+    {
+      "municipio": "Salvador",
+      "total_casos": 26098,
+      "total_obitos": 731,
+      "total_recuperados": 24873,
+      "media_semanal_casos": 250.94230769230768,
+      "max_casos_semana": 296,
+      "min_casos_semana": 201,
+      "taxa_letalidade_pct": 2.8,
+      "taxa_recuperacao_pct": 95.31
+    },
+    {
+      "municipio": "São Paulo",
+      "total_casos": 10248,
+      "total_obitos": 248,
+      "total_recuperados": 9514,
+      "media_semanal_casos": 98.53846153846153,
+      "max_casos_semana": 135,
+      "min_casos_semana": 61,
+      "taxa_letalidade_pct": 2.42,
+      "taxa_recuperacao_pct": 92.84
+    }
+  ],
+  "totais_semanais": [
+    {
+      "data": "2022-01-02",
+      "casos": 996,
+      "obitos": 22,
+      "recuperados": 944,
+      "ativos": 30,
+      "media_movel_7": 996.0
+    },
+    {
+      "data": "2022-01-09",
+      "casos": 993,
+      "obitos": 17,
+      "recuperados": 945,
+      "ativos": 31,
+      "media_movel_7": 994.5
+    },
+    {
+      "data": "2022-01-16",
+      "casos": 1022,
+      "obitos": 31,
+      "recuperados": 978,
+      "ativos": 13,
+      "media_movel_7": 1003.7
+    },
+    {
+      "data": "2022-01-23",
+      "casos": 988,
+      "obitos": 41,
+      "recuperados": 927,
+      "ativos": 20,
+      "media_movel_7": 999.8
+    },
+    {
+      "data": "2022-01-30",
+      "casos": 1042,
+      "obitos": 26,
+      "recuperados": 987,
+      "ativos": 29,
+      "media_movel_7": 1008.2
+    },
+    {
+      "data": "2022-02-06",
+      "casos": 1087,
+      "obitos": 29,
+      "recuperados": 1034,
+      "ativos": 24,
+      "media_movel_7": 1021.3
+    },
+    {
+      "data": "2022-02-13",
+      "casos": 1094,
+      "obitos": 25,
+      "recuperados": 1060,
+      "ativos": 9,
+      "media_movel_7": 1031.7
+    },
+    {
+      "data": "2022-02-20",
+      "casos": 1104,
+      "obitos": 28,
+      "recuperados": 1045,
+      "ativos": 31,
+      "media_movel_7": 1047.1
+    },
+    {
+      "data": "2022-02-27",
+      "casos": 1082,
+      "obitos": 32,
+      "recuperados": 1026,
+      "ativos": 24,
+      "media_movel_7": 1059.9
+    },
+    {
+      "data": "2022-03-06",
+      "casos": 1114,
+      "obitos": 37,
+      "recuperados": 1058,
+      "ativos": 19,
+      "media_movel_7": 1073.0
+    },
+    {
+      "data": "2022-03-13",
+      "casos": 1141,
+      "obitos": 40,
+      "recuperados": 1069,
+      "ativos": 32,
+      "media_movel_7": 1094.9
+    },
+    {
+      "data": "2022-03-20",
+      "casos": 1080,
+      "obitos": 29,
+      "recuperados": 1032,
+      "ativos": 19,
+      "media_movel_7": 1100.3
+    },
+    {
+      "data": "2022-03-27",
+      "casos": 1115,
+      "obitos": 45,
+      "recuperados": 1042,
+      "ativos": 28,
+      "media_movel_7": 1104.3
+    },
+    {
+      "data": "2022-04-03",
+      "casos": 1135,
+      "obitos": 42,
+      "recuperados": 1072,
+      "ativos": 21,
+      "media_movel_7": 1110.1
+    },
+    {
+      "data": "2022-04-10",
+      "casos": 1077,
+      "obitos": 41,
+      "recuperados": 1014,
+      "ativos": 22,
+      "media_movel_7": 1106.3
+    },
+    {
+      "data": "2022-04-17",
+      "casos": 1123,
+      "obitos": 15,
+      "recuperados": 1086,
+      "ativos": 22,
+      "media_movel_7": 1112.1
+    },
+    {
+      "data": "2022-04-24",
+      "casos": 1095,
+      "obitos": 30,
+      "recuperados": 1046,
+      "ativos": 19,
+      "media_movel_7": 1109.4
+    },
+    {
+      "data": "2022-05-01",
+      "casos": 1126,
+      "obitos": 30,
+      "recuperados": 1075,
+      "ativos": 21,
+      "media_movel_7": 1107.3
+    },
+    {
+      "data": "2022-05-08",
+      "casos": 1129,
+      "obitos": 25,
+      "recuperados": 1082,
+      "ativos": 22,
+      "media_movel_7": 1114.3
+    },
+    {
+      "data": "2022-05-15",
+      "casos": 1106,
+      "obitos": 21,
+      "recuperados": 1071,
+      "ativos": 14,
+      "media_movel_7": 1113.0
+    },
+    {
+      "data": "2022-05-22",
+      "casos": 1090,
+      "obitos": 34,
+      "recuperados": 1035,
+      "ativos": 21,
+      "media_movel_7": 1106.6
+    },
+    {
+      "data": "2022-05-29",
+      "casos": 1058,
+      "obitos": 20,
+      "recuperados": 1028,
+      "ativos": 10,
+      "media_movel_7": 1103.9
+    },
+    {
+      "data": "2022-06-05",
+      "casos": 1020,
+      "obitos": 31,
+      "recuperados": 968,
+      "ativos": 21,
+      "media_movel_7": 1089.1
+    },
+    {
+      "data": "2022-06-12",
+      "casos": 1030,
+      "obitos": 30,
+      "recuperados": 971,
+      "ativos": 29,
+      "media_movel_7": 1079.9
+    },
+    {
+      "data": "2022-06-19",
+      "casos": 1039,
+      "obitos": 29,
+      "recuperados": 987,
+      "ativos": 23,
+      "media_movel_7": 1067.4
+    },
+    {
+      "data": "2022-06-26",
+      "casos": 997,
+      "obitos": 19,
+      "recuperados": 945,
+      "ativos": 33,
+      "media_movel_7": 1048.6
+    },
+    {
+      "data": "2022-07-03",
+      "casos": 992,
+      "obitos": 30,
+      "recuperados": 939,
+      "ativos": 23,
+      "media_movel_7": 1032.3
+    },
+    {
+      "data": "2022-07-10",
+      "casos": 997,
+      "obitos": 27,
+      "recuperados": 956,
+      "ativos": 14,
+      "media_movel_7": 1019.0
+    },
+    {
+      "data": "2022-07-17",
+      "casos": 1005,
+      "obitos": 33,
+      "recuperados": 936,
+      "ativos": 36,
+      "media_movel_7": 1011.4
+    },
+    {
+      "data": "2022-07-24",
+      "casos": 942,
+      "obitos": 35,
+      "recuperados": 881,
+      "ativos": 26,
+      "media_movel_7": 1000.3
+    },
+    {
+      "data": "2022-07-31",
+      "casos": 968,
+      "obitos": 26,
+      "recuperados": 925,
+      "ativos": 17,
+      "media_movel_7": 991.4
+    },
+    {
+      "data": "2022-08-07",
+      "casos": 928,
+      "obitos": 33,
+      "recuperados": 868,
+      "ativos": 27,
+      "media_movel_7": 975.6
+    },
+    {
+      "data": "2022-08-14",
+      "casos": 950,
+      "obitos": 27,
+      "recuperados": 893,
+      "ativos": 30,
+      "media_movel_7": 968.9
+    },
+    {
+      "data": "2022-08-21",
+      "casos": 950,
+      "obitos": 25,
+      "recuperados": 904,
+      "ativos": 21,
+      "media_movel_7": 962.9
+    },
+    {
+      "data": "2022-08-28",
+      "casos": 940,
+      "obitos": 30,
+      "recuperados": 898,
+      "ativos": 12,
+      "media_movel_7": 954.7
+    },
+    {
+      "data": "2022-09-04",
+      "casos": 906,
+      "obitos": 25,
+      "recuperados": 846,
+      "ativos": 35,
+      "media_movel_7": 940.6
+    },
+    {
+      "data": "2022-09-11",
+      "casos": 901,
+      "obitos": 29,
+      "recuperados": 841,
+      "ativos": 31,
+      "media_movel_7": 934.7
+    },
+    {
+      "data": "2022-09-18",
+      "casos": 923,
+      "obitos": 29,
+      "recuperados": 867,
+      "ativos": 27,
+      "media_movel_7": 928.3
+    },
+    {
+      "data": "2022-09-25",
+      "casos": 897,
+      "obitos": 24,
+      "recuperados": 850,
+      "ativos": 23,
+      "media_movel_7": 923.9
+    },
+    {
+      "data": "2022-10-02",
+      "casos": 929,
+      "obitos": 21,
+      "recuperados": 893,
+      "ativos": 15,
+      "media_movel_7": 920.9
+    },
+    {
+      "data": "2022-10-09",
+      "casos": 946,
+      "obitos": 33,
+      "recuperados": 887,
+      "ativos": 26,
+      "media_movel_7": 920.3
+    },
+    {
+      "data": "2022-10-16",
+      "casos": 904,
+      "obitos": 12,
+      "recuperados": 876,
+      "ativos": 16,
+      "media_movel_7": 915.1
+    },
+    {
+      "data": "2022-10-23",
+      "casos": 907,
+      "obitos": 12,
+      "recuperados": 882,
+      "ativos": 13,
+      "media_movel_7": 915.3
+    },
+    {
+      "data": "2022-10-30",
+      "casos": 893,
+      "obitos": 20,
+      "recuperados": 847,
+      "ativos": 26,
+      "media_movel_7": 914.1
+    },
+    {
+      "data": "2022-11-06",
+      "casos": 960,
+      "obitos": 24,
+      "recuperados": 910,
+      "ativos": 26,
+      "media_movel_7": 919.4
+    },
+    {
+      "data": "2022-11-13",
+      "casos": 971,
+      "obitos": 21,
+      "recuperados": 923,
+      "ativos": 27,
+      "media_movel_7": 930.0
+    },
+    {
+      "data": "2022-11-20",
+      "casos": 920,
+      "obitos": 32,
+      "recuperados": 869,
+      "ativos": 19,
+      "media_movel_7": 928.7
+    },
+    {
+      "data": "2022-11-27",
+      "casos": 961,
+      "obitos": 31,
+      "recuperados": 903,
+      "ativos": 27,
+      "media_movel_7": 930.9
+    },
+    {
+      "data": "2022-12-04",
+      "casos": 935,
+      "obitos": 22,
+      "recuperados": 887,
+      "ativos": 26,
+      "media_movel_7": 935.3
+    },
+    {
+      "data": "2022-12-11",
+      "casos": 955,
+      "obitos": 23,
+      "recuperados": 905,
+      "ativos": 27,
+      "media_movel_7": 942.1
+    },
+    {
+      "data": "2022-12-18",
+      "casos": 961,
+      "obitos": 20,
+      "recuperados": 917,
+      "ativos": 24,
+      "media_movel_7": 951.9
+    },
+    {
+      "data": "2022-12-25",
+      "casos": 966,
+      "obitos": 24,
+      "recuperados": 919,
+      "ativos": 23,
+      "media_movel_7": 952.7
+    },
+    {
+      "data": "2023-01-01",
+      "casos": 1028,
+      "obitos": 28,
+      "recuperados": 981,
+      "ativos": 19,
+      "media_movel_7": 960.9
+    },
+    {
+      "data": "2023-01-08",
+      "casos": 1040,
+      "obitos": 30,
+      "recuperados": 987,
+      "ativos": 23,
+      "media_movel_7": 978.0
+    },
+    {
+      "data": "2023-01-15",
+      "casos": 1055,
+      "obitos": 38,
+      "recuperados": 981,
+      "ativos": 36,
+      "media_movel_7": 991.4
+    },
+    {
+      "data": "2023-01-22",
+      "casos": 1052,
+      "obitos": 27,
+      "recuperados": 1006,
+      "ativos": 19,
+      "media_movel_7": 1008.1
+    },
+    {
+      "data": "2023-01-29",
+      "casos": 1112,
+      "obitos": 31,
+      "recuperados": 1062,
+      "ativos": 19,
+      "media_movel_7": 1030.6
+    },
+    {
+      "data": "2023-02-05",
+      "casos": 1065,
+      "obitos": 31,
+      "recuperados": 1012,
+      "ativos": 22,
+      "media_movel_7": 1045.4
+    },
+    {
+      "data": "2023-02-12",
+      "casos": 1061,
+      "obitos": 31,
+      "recuperados": 1018,
+      "ativos": 12,
+      "media_movel_7": 1059.0
+    },
+    {
+      "data": "2023-02-19",
+      "casos": 1067,
+      "obitos": 38,
+      "recuperados": 1009,
+      "ativos": 20,
+      "media_movel_7": 1064.6
+    },
+    {
+      "data": "2023-02-26",
+      "casos": 1090,
+      "obitos": 37,
+      "recuperados": 1040,
+      "ativos": 13,
+      "media_movel_7": 1071.7
+    },
+    {
+      "data": "2023-03-05",
+      "casos": 1089,
+      "obitos": 16,
+      "recuperados": 1046,
+      "ativos": 27,
+      "media_movel_7": 1076.6
+    },
+    {
+      "data": "2023-03-12",
+      "casos": 1097,
+      "obitos": 28,
+      "recuperados": 1047,
+      "ativos": 22,
+      "media_movel_7": 1083.0
+    },
+    {
+      "data": "2023-03-19",
+      "casos": 1127,
+      "obitos": 29,
+      "recuperados": 1074,
+      "ativos": 24,
+      "media_movel_7": 1085.1
+    },
+    {
+      "data": "2023-03-26",
+      "casos": 1055,
+      "obitos": 27,
+      "recuperados": 1006,
+      "ativos": 22,
+      "media_movel_7": 1083.7
+    },
+    {
+      "data": "2023-04-02",
+      "casos": 1128,
+      "obitos": 46,
+      "recuperados": 1069,
+      "ativos": 13,
+      "media_movel_7": 1093.3
+    },
+    {
+      "data": "2023-04-09",
+      "casos": 1102,
+      "obitos": 25,
+      "recuperados": 1056,
+      "ativos": 21,
+      "media_movel_7": 1098.3
+    },
+    {
+      "data": "2023-04-16",
+      "casos": 1125,
+      "obitos": 33,
+      "recuperados": 1072,
+      "ativos": 20,
+      "media_movel_7": 1103.3
+    },
+    {
+      "data": "2023-04-23",
+      "casos": 1120,
+      "obitos": 24,
+      "recuperados": 1065,
+      "ativos": 31,
+      "media_movel_7": 1107.7
+    },
+    {
+      "data": "2023-04-30",
+      "casos": 1103,
+      "obitos": 31,
+      "recuperados": 1044,
+      "ativos": 28,
+      "media_movel_7": 1108.6
+    },
+    {
+      "data": "2023-05-07",
+      "casos": 1086,
+      "obitos": 25,
+      "recuperados": 1027,
+      "ativos": 34,
+      "media_movel_7": 1102.7
+    },
+    {
+      "data": "2023-05-14",
+      "casos": 1027,
+      "obitos": 21,
+      "recuperados": 992,
+      "ativos": 14,
+      "media_movel_7": 1098.7
+    },
+    {
+      "data": "2023-05-21",
+      "casos": 1097,
+      "obitos": 37,
+      "recuperados": 1042,
+      "ativos": 18,
+      "media_movel_7": 1094.3
+    },
+    {
+      "data": "2023-05-28",
+      "casos": 1090,
+      "obitos": 34,
+      "recuperados": 1035,
+      "ativos": 21,
+      "media_movel_7": 1092.6
+    },
+    {
+      "data": "2023-06-04",
+      "casos": 1051,
+      "obitos": 34,
+      "recuperados": 996,
+      "ativos": 21,
+      "media_movel_7": 1082.0
+    },
+    {
+      "data": "2023-06-11",
+      "casos": 1095,
+      "obitos": 24,
+      "recuperados": 1043,
+      "ativos": 28,
+      "media_movel_7": 1078.4
+    },
+    {
+      "data": "2023-06-18",
+      "casos": 1077,
+      "obitos": 27,
+      "recuperados": 1019,
+      "ativos": 31,
+      "media_movel_7": 1074.7
+    },
+    {
+      "data": "2023-06-25",
+      "casos": 1040,
+      "obitos": 27,
+      "recuperados": 991,
+      "ativos": 22,
+      "media_movel_7": 1068.1
+    },
+    {
+      "data": "2023-07-02",
+      "casos": 996,
+      "obitos": 28,
+      "recuperados": 954,
+      "ativos": 14,
+      "media_movel_7": 1063.7
+    },
+    {
+      "data": "2023-07-09",
+      "casos": 1016,
+      "obitos": 31,
+      "recuperados": 962,
+      "ativos": 23,
+      "media_movel_7": 1052.1
+    },
+    {
+      "data": "2023-07-16",
+      "casos": 995,
+      "obitos": 23,
+      "recuperados": 949,
+      "ativos": 23,
+      "media_movel_7": 1038.6
+    },
+    {
+      "data": "2023-07-23",
+      "casos": 975,
+      "obitos": 28,
+      "recuperados": 919,
+      "ativos": 28,
+      "media_movel_7": 1027.7
+    },
+    {
+      "data": "2023-07-30",
+      "casos": 983,
+      "obitos": 20,
+      "recuperados": 926,
+      "ativos": 37,
+      "media_movel_7": 1011.7
+    },
+    {
+      "data": "2023-08-06",
+      "casos": 954,
+      "obitos": 30,
+      "recuperados": 913,
+      "ativos": 11,
+      "media_movel_7": 994.1
+    },
+    {
+      "data": "2023-08-13",
+      "casos": 943,
+      "obitos": 24,
+      "recuperados": 894,
+      "ativos": 25,
+      "media_movel_7": 980.3
+    },
+    {
+      "data": "2023-08-20",
+      "casos": 907,
+      "obitos": 31,
+      "recuperados": 841,
+      "ativos": 35,
+      "media_movel_7": 967.6
+    },
+    {
+      "data": "2023-08-27",
+      "casos": 934,
+      "obitos": 26,
+      "recuperados": 882,
+      "ativos": 26,
+      "media_movel_7": 955.9
+    },
+    {
+      "data": "2023-09-03",
+      "casos": 949,
+      "obitos": 18,
+      "recuperados": 907,
+      "ativos": 24,
+      "media_movel_7": 949.3
+    },
+    {
+      "data": "2023-09-10",
+      "casos": 933,
+      "obitos": 17,
+      "recuperados": 888,
+      "ativos": 28,
+      "media_movel_7": 943.3
+    },
+    {
+      "data": "2023-09-17",
+      "casos": 933,
+      "obitos": 25,
+      "recuperados": 879,
+      "ativos": 29,
+      "media_movel_7": 936.1
+    },
+    {
+      "data": "2023-09-24",
+      "casos": 872,
+      "obitos": 26,
+      "recuperados": 812,
+      "ativos": 34,
+      "media_movel_7": 924.4
+    },
+    {
+      "data": "2023-10-01",
+      "casos": 912,
+      "obitos": 24,
+      "recuperados": 865,
+      "ativos": 23,
+      "media_movel_7": 920.0
+    },
+    {
+      "data": "2023-10-08",
+      "casos": 918,
+      "obitos": 26,
+      "recuperados": 866,
+      "ativos": 26,
+      "media_movel_7": 921.6
+    },
+    {
+      "data": "2023-10-15",
+      "casos": 888,
+      "obitos": 29,
+      "recuperados": 844,
+      "ativos": 15,
+      "media_movel_7": 915.0
+    },
+    {
+      "data": "2023-10-22",
+      "casos": 918,
+      "obitos": 31,
+      "recuperados": 858,
+      "ativos": 29,
+      "media_movel_7": 910.6
+    },
+    {
+      "data": "2023-10-29",
+      "casos": 903,
+      "obitos": 22,
+      "recuperados": 872,
+      "ativos": 9,
+      "media_movel_7": 906.3
+    },
+    {
+      "data": "2023-11-05",
+      "casos": 911,
+      "obitos": 21,
+      "recuperados": 863,
+      "ativos": 27,
+      "media_movel_7": 903.1
+    },
+    {
+      "data": "2023-11-12",
+      "casos": 949,
+      "obitos": 25,
+      "recuperados": 907,
+      "ativos": 17,
+      "media_movel_7": 914.1
+    },
+    {
+      "data": "2023-11-19",
+      "casos": 953,
+      "obitos": 19,
+      "recuperados": 910,
+      "ativos": 24,
+      "media_movel_7": 920.0
+    },
+    {
+      "data": "2023-11-26",
+      "casos": 932,
+      "obitos": 12,
+      "recuperados": 899,
+      "ativos": 21,
+      "media_movel_7": 922.0
+    },
+    {
+      "data": "2023-12-03",
+      "casos": 994,
+      "obitos": 26,
+      "recuperados": 959,
+      "ativos": 9,
+      "media_movel_7": 937.1
+    },
+    {
+      "data": "2023-12-10",
+      "casos": 953,
+      "obitos": 19,
+      "recuperados": 908,
+      "ativos": 26,
+      "media_movel_7": 942.1
+    },
+    {
+      "data": "2023-12-17",
+      "casos": 997,
+      "obitos": 21,
+      "recuperados": 949,
+      "ativos": 27,
+      "media_movel_7": 955.6
+    },
+    {
+      "data": "2023-12-24",
+      "casos": 982,
+      "obitos": 24,
+      "recuperados": 932,
+      "ativos": 26,
+      "media_movel_7": 965.7
+    }
+  ],
+  "previsoes": [
+    {
+      "data": "2023-12-31",
+      "previsao": 149.1,
+      "lower": 126.7,
+      "upper": 171.6,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-07",
+      "previsao": 149.3,
+      "lower": 126.1,
+      "upper": 172.6,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-14",
+      "previsao": 149.5,
+      "lower": 125.0,
+      "upper": 174.0,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-21",
+      "previsao": 149.6,
+      "lower": 123.5,
+      "upper": 175.8,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-28",
+      "previsao": 149.8,
+      "lower": 121.7,
+      "upper": 177.9,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-04",
+      "previsao": 149.9,
+      "lower": 119.6,
+      "upper": 180.1,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-11",
+      "previsao": 149.9,
+      "lower": 117.5,
+      "upper": 182.4,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-18",
+      "previsao": 150.0,
+      "lower": 115.2,
+      "upper": 184.8,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-25",
+      "previsao": 150.1,
+      "lower": 113.0,
+      "upper": 187.1,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-03",
+      "previsao": 150.1,
+      "lower": 110.7,
+      "upper": 189.5,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-10",
+      "previsao": 150.1,
+      "lower": 108.4,
+      "upper": 191.8,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-17",
+      "previsao": 150.2,
+      "lower": 106.2,
+      "upper": 194.1,
+      "municipio": "Belo Horizonte",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2023-12-31",
+      "previsao": 227.4,
+      "lower": 206.2,
+      "upper": 248.5,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-07",
+      "previsao": 232.8,
+      "lower": 210.1,
+      "upper": 255.6,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-14",
+      "previsao": 229.3,
+      "lower": 203.0,
+      "upper": 255.6,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-21",
+      "previsao": 231.0,
+      "lower": 202.9,
+      "upper": 259.2,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-28",
+      "previsao": 230.1,
+      "lower": 199.6,
+      "upper": 260.5,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-04",
+      "previsao": 230.6,
+      "lower": 198.3,
+      "upper": 262.9,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-11",
+      "previsao": 230.3,
+      "lower": 196.1,
+      "upper": 264.5,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-18",
+      "previsao": 230.4,
+      "lower": 194.5,
+      "upper": 266.3,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-25",
+      "previsao": 230.4,
+      "lower": 192.8,
+      "upper": 267.9,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-03",
+      "previsao": 230.4,
+      "lower": 191.2,
+      "upper": 269.6,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-10",
+      "previsao": 230.4,
+      "lower": 189.7,
+      "upper": 271.1,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-17",
+      "previsao": 230.4,
+      "lower": 188.2,
+      "upper": 272.6,
+      "municipio": "Curitiba",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2023-12-31",
+      "previsao": 258.2,
+      "lower": 235.3,
+      "upper": 281.1,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-07",
+      "previsao": 257.4,
+      "lower": 233.1,
+      "upper": 281.8,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-14",
+      "previsao": 257.7,
+      "lower": 231.2,
+      "upper": 284.1,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-21",
+      "previsao": 257.5,
+      "lower": 229.2,
+      "upper": 285.8,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-28",
+      "previsao": 257.6,
+      "lower": 227.6,
+      "upper": 287.7,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-04",
+      "previsao": 257.5,
+      "lower": 225.8,
+      "upper": 289.2,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-11",
+      "previsao": 257.6,
+      "lower": 224.4,
+      "upper": 290.9,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-18",
+      "previsao": 257.5,
+      "lower": 222.8,
+      "upper": 292.2,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-25",
+      "previsao": 257.6,
+      "lower": 221.4,
+      "upper": 293.8,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-03",
+      "previsao": 257.5,
+      "lower": 220.0,
+      "upper": 295.1,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-10",
+      "previsao": 257.6,
+      "lower": 218.7,
+      "upper": 296.5,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-17",
+      "previsao": 257.5,
+      "lower": 217.3,
+      "upper": 297.7,
+      "municipio": "Rio de Janeiro",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2023-12-31",
+      "previsao": 225.4,
+      "lower": 202.8,
+      "upper": 248.0,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-07",
+      "previsao": 227.4,
+      "lower": 202.7,
+      "upper": 252.0,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-14",
+      "previsao": 227.1,
+      "lower": 201.2,
+      "upper": 253.1,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-21",
+      "previsao": 226.8,
+      "lower": 198.2,
+      "upper": 255.4,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-28",
+      "previsao": 227.0,
+      "lower": 196.7,
+      "upper": 257.4,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-04",
+      "previsao": 227.0,
+      "lower": 194.9,
+      "upper": 259.1,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-11",
+      "previsao": 227.0,
+      "lower": 193.1,
+      "upper": 260.8,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-18",
+      "previsao": 227.0,
+      "lower": 191.6,
+      "upper": 262.4,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-25",
+      "previsao": 227.0,
+      "lower": 190.0,
+      "upper": 263.9,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-03",
+      "previsao": 227.0,
+      "lower": 188.6,
+      "upper": 265.4,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-10",
+      "previsao": 227.0,
+      "lower": 187.2,
+      "upper": 266.8,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-17",
+      "previsao": 227.0,
+      "lower": 185.8,
+      "upper": 268.2,
+      "municipio": "Salvador",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2023-12-31",
+      "previsao": 121.8,
+      "lower": 103.3,
+      "upper": 140.3,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-07",
+      "previsao": 122.4,
+      "lower": 102.2,
+      "upper": 142.7,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-14",
+      "previsao": 121.9,
+      "lower": 99.8,
+      "upper": 144.0,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-21",
+      "previsao": 121.6,
+      "lower": 97.0,
+      "upper": 146.1,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-01-28",
+      "previsao": 121.4,
+      "lower": 94.4,
+      "upper": 148.5,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-04",
+      "previsao": 121.4,
+      "lower": 92.0,
+      "upper": 150.9,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-11",
+      "previsao": 121.4,
+      "lower": 89.8,
+      "upper": 153.1,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-18",
+      "previsao": 121.4,
+      "lower": 87.7,
+      "upper": 155.2,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-02-25",
+      "previsao": 121.4,
+      "lower": 85.8,
+      "upper": 157.1,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-03",
+      "previsao": 121.4,
+      "lower": 83.9,
+      "upper": 158.9,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-10",
+      "previsao": 121.4,
+      "lower": 82.2,
+      "upper": 160.7,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    },
+    {
+      "data": "2024-03-17",
+      "previsao": 121.4,
+      "lower": 80.5,
+      "upper": 162.4,
+      "municipio": "São Paulo",
+      "metrica": "casos",
+      "modelo": "arima"
+    }
+  ],
+  "anomalias": [],
+  "ranking_municipios": [
+    {
+      "municipio": "Rio de Janeiro",
+      "total_casos": 28371,
+      "total_obitos": 806,
+      "total_recuperados": 27092,
+      "media_semanal_casos": 272.7980769230769,
+      "max_casos_semana": 314,
+      "min_casos_semana": 226,
+      "taxa_letalidade_pct": 2.84,
+      "taxa_recuperacao_pct": 95.49
+    },
+    {
+      "municipio": "Salvador",
+      "total_casos": 26098,
+      "total_obitos": 731,
+      "total_recuperados": 24873,
+      "media_semanal_casos": 250.94230769230768,
+      "max_casos_semana": 296,
+      "min_casos_semana": 201,
+      "taxa_letalidade_pct": 2.8,
+      "taxa_recuperacao_pct": 95.31
+    },
+    {
+      "municipio": "Curitiba",
+      "total_casos": 24073,
+      "total_obitos": 638,
+      "total_recuperados": 22923,
+      "media_semanal_casos": 231.47115384615384,
+      "max_casos_semana": 263,
+      "min_casos_semana": 197,
+      "taxa_letalidade_pct": 2.65,
+      "taxa_recuperacao_pct": 95.22
+    },
+    {
+      "municipio": "Belo Horizonte",
+      "total_casos": 16279,
+      "total_obitos": 419,
+      "total_recuperados": 15425,
+      "media_semanal_casos": 156.52884615384616,
+      "max_casos_semana": 191,
+      "min_casos_semana": 121,
+      "taxa_letalidade_pct": 2.57,
+      "taxa_recuperacao_pct": 94.75
+    },
+    {
+      "municipio": "São Paulo",
+      "total_casos": 10248,
+      "total_obitos": 248,
+      "total_recuperados": 9514,
+      "media_semanal_casos": 98.53846153846153,
+      "max_casos_semana": 135,
+      "min_casos_semana": 61,
+      "taxa_letalidade_pct": 2.42,
+      "taxa_recuperacao_pct": 92.84
+    }
+  ]
+}
